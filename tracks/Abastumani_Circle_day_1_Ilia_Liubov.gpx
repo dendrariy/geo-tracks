@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.942Z</time>
+		<link href="https://www.komoot.com/tour/2602783562"/>
+	</metadata>
+	<trk>
+		<name>Abastumani_Circle_day_1_Ilia_Liubov</name>
+		<trkseg>
+			<trkpt lat="41.735518" lon="42.835438"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.735368" lon="42.836104"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.734617" lon="42.835031"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.733995" lon="42.834966"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.732986" lon="42.836125"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.732557" lon="42.835953"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.731677" lon="42.836340"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.730969" lon="42.837477"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.731505" lon="42.836340"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.733029" lon="42.835438"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.731162" lon="42.836189"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.731227" lon="42.835782"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.730991" lon="42.836168"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.732836" lon="42.833979"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.731162" lon="42.834730"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.731355" lon="42.834194"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.731784" lon="42.834087"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.731269" lon="42.833829"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

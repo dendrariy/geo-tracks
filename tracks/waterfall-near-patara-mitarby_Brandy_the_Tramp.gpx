@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.987Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/waterfall-near-patara-mitarby-32611409"/>
+	</metadata>
+	<trk>
+		<name>waterfall-near-patara-mitarby_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="41.778197" lon="43.563047"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.777940" lon="43.562896"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.778154" lon="43.563090"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.777940" lon="43.562918"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.778412" lon="43.562618"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.780644" lon="43.562145"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.781116" lon="43.562746"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.782146" lon="43.563154"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.783540" lon="43.562296"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784012" lon="43.557875"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.785257" lon="43.556545"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.785042" lon="43.555043"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.785236" lon="43.553841"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.786802" lon="43.551653"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.786974" lon="43.550365"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.786738" lon="43.549206"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.787038" lon="43.548627"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.786845" lon="43.548134"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.787038" lon="43.547318"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.787703" lon="43.546760"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.787982" lon="43.545237"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.789441" lon="43.542512"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.789420" lon="43.541482"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.790192" lon="43.539851"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.792703" lon="43.539551"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

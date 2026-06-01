@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.986Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/usholta-cave-35892556"/>
+	</metadata>
+	<trk>
+		<name>usholta-cave_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="42.499540" lon="43.402951"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499283" lon="43.402565"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499497" lon="43.402050"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499218" lon="43.399539"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.498853" lon="43.398767"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499283" lon="43.396278"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.498875" lon="43.394904"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499325" lon="43.394497"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499197" lon="43.393424"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499712" lon="43.392093"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499261" lon="43.391707"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499197" lon="43.391192"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499647" lon="43.390548"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499347" lon="43.389948"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499926" lon="43.388982"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499454" lon="43.389626"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499604" lon="43.390377"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.498446" lon="43.389969"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.498253" lon="43.389218"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

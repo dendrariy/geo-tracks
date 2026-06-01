@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.943Z</time>
+		<link href="https://www.relive.com/view/vmqX92w3Aov"/>
+	</metadata>
+	<trk>
+		<name>Acclimatisation_day-4050_lavrenti</name>
+		<trkseg>
+			<trkpt lat="42.683647" lon="44.509158"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.682939" lon="44.510875"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.682874" lon="44.512055"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.683175" lon="44.512763"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.682960" lon="44.513407"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.683196" lon="44.513879"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.683067" lon="44.516475"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.682145" lon="44.519973"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.681565" lon="44.520939"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.681050" lon="44.523449"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.681458" lon="44.524629"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.681415" lon="44.527033"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.680965" lon="44.528427"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.681244" lon="44.529972"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.680857" lon="44.530273"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.680772" lon="44.531088"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.680257" lon="44.531946"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.679913" lon="44.533813"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.679677" lon="44.533620"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

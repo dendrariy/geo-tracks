@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.986Z</time>
+		<link href="https://www.relive.com/view/vrqo5p2RQyO"/>
+	</metadata>
+	<trk>
+		<name>Via_Ferrata-Sveri_lavrenti</name>
+		<trkseg>
+			<trkpt lat="42.237971" lon="43.307421"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.237520" lon="43.308559"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.237542" lon="43.310297"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238100" lon="43.308902"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238636" lon="43.308687"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238679" lon="43.308172"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.239516" lon="43.308366"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.239087" lon="43.308730"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.239323" lon="43.308945"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.239773" lon="43.308215"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.239108" lon="43.309202"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238851" lon="43.309095"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238572" lon="43.310147"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238014" lon="43.310726"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238057" lon="43.311241"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238937" lon="43.309739"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238593" lon="43.309975"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238743" lon="43.308580"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238400" lon="43.309009"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238507" lon="43.308623"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238186" lon="43.308816"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.237628" lon="43.310318"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.237585" lon="43.308537"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.238035" lon="43.307100"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.237349" lon="43.307808"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.237198" lon="43.307529"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

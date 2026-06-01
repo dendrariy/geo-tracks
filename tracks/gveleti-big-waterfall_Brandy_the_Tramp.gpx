@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.958Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/gveleti-big-waterfall-24033731"/>
+	</metadata>
+	<trk>
+		<name>gveleti-big-waterfall_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="42.704976" lon="44.615352"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704868" lon="44.615653"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705062" lon="44.615395"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705276" lon="44.615631"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704675" lon="44.617112"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705040" lon="44.617434"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704718" lon="44.617777"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705405" lon="44.619708"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704761" lon="44.621189"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705126" lon="44.621125"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.706628" lon="44.622927"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707036" lon="44.624622"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707465" lon="44.624751"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707980" lon="44.625631"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.710061" lon="44.626403"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

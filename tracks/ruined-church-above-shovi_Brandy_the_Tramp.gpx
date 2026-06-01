@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.976Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/ruined-church-above-shovi-24033171"/>
+	</metadata>
+	<trk>
+		<name>ruined-church-above-shovi_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="42.713773" lon="43.702264"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.713344" lon="43.700097"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.713816" lon="43.698874"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.713730" lon="43.698294"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.713280" lon="43.697372"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.713194" lon="43.695913"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.713044" lon="43.696835"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.712379" lon="43.695312"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.712379" lon="43.694024"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.712979" lon="43.693166"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.712765" lon="43.691814"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.712379" lon="43.691900"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.712379" lon="43.691106"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.711778" lon="43.691063"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.711563" lon="43.690441"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.710469" lon="43.690248"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707937" lon="43.690763"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707980" lon="43.690398"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707679" lon="43.690591"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.706542" lon="43.689561"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704332" lon="43.683145"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704590" lon="43.681901"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704117" lon="43.680999"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.703195" lon="43.673747"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.701671" lon="43.670893"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.701349" lon="43.671451"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.701950" lon="43.671429"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

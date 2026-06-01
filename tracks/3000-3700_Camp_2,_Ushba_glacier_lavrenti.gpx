@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.942Z</time>
+		<link href="https://www.relive.com/view/vMq5w23Pr8O"/>
+	</metadata>
+	<trk>
+		<name>3000-3700_Camp_2,_Ushba_glacier_lavrenti</name>
+		<trkseg>
+			<trkpt lat="43.133228" lon="42.644873"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.133636" lon="42.643714"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.133636" lon="42.641826"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.135696" lon="42.644873"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.138828" lon="42.647212"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.139150" lon="42.647555"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.139064" lon="42.647920"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.139215" lon="42.647576"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.140867" lon="42.647791"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.141360" lon="42.649915"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.140331" lon="42.652576"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.140588" lon="42.654979"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.139987" lon="42.655645"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.139773" lon="42.658134"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.138914" lon="42.659443"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.138657" lon="42.660988"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.138464" lon="42.660945"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

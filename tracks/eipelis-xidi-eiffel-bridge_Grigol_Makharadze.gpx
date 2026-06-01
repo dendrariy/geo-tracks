@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.954Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/eipelis-xidi-eiffel-bridge-97340294"/>
+	</metadata>
+	<trk>
+		<name>eipelis-xidi-eiffel-bridge_Grigol_Makharadze</name>
+		<trkseg>
+			<trkpt lat="41.801114" lon="43.466101"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.801844" lon="43.467088"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.801071" lon="43.467818"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.800900" lon="43.468719"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.801479" lon="43.470071"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.956Z</time>
+		<link href="https://www.relive.com/view/vJOKj2J25wv"/>
+	</metadata>
+	<trk>
+		<name>Garbani_lavrenti</name>
+		<trkseg>
+			<trkpt lat="42.591100" lon="44.597628"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.590778" lon="44.598444"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.591100" lon="44.599345"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.591551" lon="44.599903"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.591937" lon="44.599688"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.593160" lon="44.600160"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.592817" lon="44.593916"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.593074" lon="44.593230"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.595198" lon="44.591620"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.596078" lon="44.591298"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.596765" lon="44.592200"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.597666" lon="44.592285"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.600498" lon="44.591341"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.601700" lon="44.591556"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.604919" lon="44.590140"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

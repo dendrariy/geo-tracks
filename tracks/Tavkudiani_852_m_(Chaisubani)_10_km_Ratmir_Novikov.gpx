@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.981Z</time>
+		<link href="https://www.komoot.com/tour/1074914120"/>
+	</metadata>
+	<trk>
+		<name>Tavkudiani_852_m_(Chaisubani)_10_km_Ratmir_Novikov</name>
+		<trkseg>
+			<trkpt lat="41.683698" lon="41.751976"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.683440" lon="41.752491"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.682732" lon="41.752555"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.682625" lon="41.752877"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.683633" lon="41.754401"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681552" lon="41.754079"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681273" lon="41.754830"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.680994" lon="41.754830"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681573" lon="41.755538"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.680629" lon="41.756826"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681466" lon="41.757813"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681423" lon="41.760731"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.679278" lon="41.760602"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.679492" lon="41.760817"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.679041" lon="41.760666"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678569" lon="41.761203"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678290" lon="41.760903"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678140" lon="41.759615"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.677067" lon="41.759679"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676359" lon="41.759100"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675372" lon="41.759079"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675480" lon="41.758714"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675029" lon="41.758027"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675201" lon="41.757341"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.674471" lon="41.756332"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.674364" lon="41.757276"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673269" lon="41.756826"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673055" lon="41.755796"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673291" lon="41.754530"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.671510" lon="41.754809"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.668484" lon="41.754379"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.667454" lon="41.753886"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.666617" lon="41.754680"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.666660" lon="41.755645"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.666510" lon="41.754294"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.671231" lon="41.755066"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.672154" lon="41.754358"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673269" lon="41.754530"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673098" lon="41.755796"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673377" lon="41.756890"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673999" lon="41.756890"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.674407" lon="41.757405"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.674492" lon="41.756075"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.674535" lon="41.756911"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.674128" lon="41.757405"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673892" lon="41.759100"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673312" lon="41.759486"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673248" lon="41.760366"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.672733" lon="41.761439"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673999" lon="41.763220"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.674492" lon="41.761203"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675844" lon="41.760151"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.677046" lon="41.760924"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676638" lon="41.762040"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676896" lon="41.762469"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676424" lon="41.764979"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675952" lon="41.764979"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.677089" lon="41.765344"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676960" lon="41.766675"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676638" lon="41.767640"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676381" lon="41.767619"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676638" lon="41.767705"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676445" lon="41.769400"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.677153" lon="41.768499"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.677754" lon="41.768713"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678720" lon="41.767898"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.680029" lon="41.768992"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.680372" lon="41.769829"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681123" lon="41.769357"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681659" lon="41.769786"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.682282" lon="41.768971"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.683204" lon="41.768606"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.683076" lon="41.766868"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.683741" lon="41.766310"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.683891" lon="41.765602"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.684985" lon="41.766052"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.687024" lon="41.765366"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

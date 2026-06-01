@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.944Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/akhaltsike-to-artkhmo-25518371"/>
+	</metadata>
+	<trk>
+		<name>akhaltsike-to-artkhmo_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="42.562733" lon="44.642539"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.563076" lon="44.642282"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.563763" lon="44.642926"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.565029" lon="44.642732"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.568054" lon="44.644299"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.572067" lon="44.644234"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.572432" lon="44.643827"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.572990" lon="44.644943"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.575650" lon="44.646251"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.577861" lon="44.646015"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.579255" lon="44.645307"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.579899" lon="44.645779"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.579963" lon="44.646380"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.579427" lon="44.646187"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.578805" lon="44.646488"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.579513" lon="44.646724"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.581101" lon="44.648183"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.581809" lon="44.649470"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.583268" lon="44.650801"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.583954" lon="44.652474"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.585027" lon="44.653590"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.590006" lon="44.657603"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.590885" lon="44.657946"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.591551" lon="44.658933"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.593224" lon="44.657324"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.965Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/leiraki-waterfall-tavrani-valley-leiraqis-chanchkeri-tavranis-veli-75125893"/>
+	</metadata>
+	<trk>
+		<name>leiraki-waterfall-tavrani-valley-leiraqis-chanchkeri-tavranis-veli_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="43.144107" lon="42.403152"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.144772" lon="42.402659"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.145244" lon="42.403581"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.148399" lon="42.403410"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.149214" lon="42.402766"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.150459" lon="42.403281"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.153527" lon="42.402058"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.154578" lon="42.402616"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.155050" lon="42.403410"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.156467" lon="42.403538"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.157239" lon="42.404332"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.159385" lon="42.404182"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.160587" lon="42.404611"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.162410" lon="42.406178"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.167346" lon="42.406864"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.168783" lon="42.407680"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.170800" lon="42.407272"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.172689" lon="42.409074"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.175156" lon="42.409825"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.176100" lon="42.409439"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.177817" lon="42.410619"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.180092" lon="42.411027"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.180070" lon="42.411692"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.181164" lon="42.413173"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.181572" lon="42.416413"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.182001" lon="42.417185"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.182881" lon="42.417507"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.183911" lon="42.418838"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

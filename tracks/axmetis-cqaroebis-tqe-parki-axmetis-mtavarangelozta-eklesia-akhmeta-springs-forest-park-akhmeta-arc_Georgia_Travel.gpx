@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.946Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/axmetis-cqaroebis-tqe-parki-axmetis-mtavarangelozta-eklesia-akhmeta-springs-forest-park-akhmeta-arc-118818099"/>
+	</metadata>
+	<trk>
+		<name>axmetis-cqaroebis-tqe-parki-axmetis-mtavarangelozta-eklesia-akhmeta-springs-forest-park-akhmeta-arc_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.012537" lon="45.231831"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.010241" lon="45.232497"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.009168" lon="45.233248"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.008932" lon="45.232432"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.009232" lon="45.228870"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.010391" lon="45.227518"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.010820" lon="45.228377"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

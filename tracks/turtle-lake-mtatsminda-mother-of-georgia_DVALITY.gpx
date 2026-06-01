@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.985Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/turtle-lake-mtatsminda-mother-of-georgia-93495140"/>
+	</metadata>
+	<trk>
+		<name>turtle-lake-mtatsminda-mother-of-georgia_DVALITY</name>
+		<trkseg>
+			<trkpt lat="41.699963" lon="44.751480"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.699298" lon="44.751931"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.699040" lon="44.757295"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.697731" lon="44.752145"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.695950" lon="44.750021"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.695757" lon="44.750729"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.694813" lon="44.751909"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.695113" lon="44.752274"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.695349" lon="44.755149"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.694577" lon="44.759698"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693912" lon="44.760599"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693482" lon="44.760685"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693032" lon="44.762531"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692581" lon="44.763024"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692925" lon="44.767616"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693997" lon="44.770770"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692753" lon="44.772938"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692431" lon="44.772980"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692839" lon="44.773023"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693783" lon="44.776607"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693912" lon="44.780319"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.694727" lon="44.784224"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.694899" lon="44.786413"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693440" lon="44.786628"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693204" lon="44.785941"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692581" lon="44.785533"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692581" lon="44.785018"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.691852" lon="44.783860"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.688783" lon="44.782701"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.687431" lon="44.784181"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.687174" lon="44.784096"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.687346" lon="44.783774"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.686938" lon="44.783581"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.686380" lon="44.784675"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.686444" lon="44.787915"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.686702" lon="44.788473"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.686380" lon="44.788924"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.687045" lon="44.789868"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.687174" lon="44.790705"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.688504" lon="44.791820"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.688075" lon="44.798794"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.688268" lon="44.800575"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.688097" lon="44.804781"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

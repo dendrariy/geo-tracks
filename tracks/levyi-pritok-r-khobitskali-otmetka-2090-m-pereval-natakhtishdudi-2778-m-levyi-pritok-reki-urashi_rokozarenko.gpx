@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.965Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/levyi-pritok-r-khobitskali-otmetka-2090-m-pereval-natakhtishdudi-2778-m-levyi-pritok-reki-urashi-8843153"/>
+	</metadata>
+	<trk>
+		<name>levyi-pritok-r-khobitskali-otmetka-2090-m-pereval-natakhtishdudi-2778-m-levyi-pritok-reki-urashi_rokozarenko</name>
+		<trkseg>
+			<trkpt lat="42.823165" lon="42.279792"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.825761" lon="42.280693"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.830718" lon="42.284341"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.832112" lon="42.287238"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.831104" lon="42.290220"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.827842" lon="42.291615"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.827821" lon="42.296057"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.829774" lon="42.295091"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.829473" lon="42.297580"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.829795" lon="42.299791"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.831426" lon="42.299447"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.832992" lon="42.299812"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.833893" lon="42.301657"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.839344" lon="42.303159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.841275" lon="42.304168"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.844966" lon="42.306614"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.848034" lon="42.309489"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.848678" lon="42.307558"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.850974" lon="42.308159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.853592" lon="42.309854"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.856639" lon="42.308374"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.857561" lon="42.306914"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.860007" lon="42.307859"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.861917" lon="42.302022"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.863226" lon="42.299640"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.865565" lon="42.298224"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.866745" lon="42.296808"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.868204" lon="42.293267"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.880693" lon="42.282109"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.885027" lon="42.269707"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

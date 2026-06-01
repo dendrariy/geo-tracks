@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.953Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/dolina-r-khobitskali-otmetka-1620-m-8843148"/>
+	</metadata>
+	<trk>
+		<name>dolina-r-khobitskali-otmetka-1620-m_rokozarenko</name>
+		<trkseg>
+			<trkpt lat="42.655108" lon="42.211042"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.654851" lon="42.214496"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.655323" lon="42.218745"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.654765" lon="42.222865"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.655301" lon="42.224624"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.654357" lon="42.230010"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.656996" lon="42.236362"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.656932" lon="42.250416"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.657855" lon="42.260029"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.657705" lon="42.268291"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.658713" lon="42.274513"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.659679" lon="42.278526"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.663326" lon="42.280994"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.665601" lon="42.281530"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.667167" lon="42.280457"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.680278" lon="42.283890"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.683132" lon="42.285800"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.685363" lon="42.289727"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.689119" lon="42.292752"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.689612" lon="42.292001"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.687488" lon="42.289105"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.690170" lon="42.289920"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.689548" lon="42.287173"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.692166" lon="42.290135"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.692659" lon="42.287023"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.694848" lon="42.289126"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.697487" lon="42.290950"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.698624" lon="42.285972"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.701070" lon="42.289212"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.703517" lon="42.288890"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.703731" lon="42.285628"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704911" lon="42.283032"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.709675" lon="42.277775"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

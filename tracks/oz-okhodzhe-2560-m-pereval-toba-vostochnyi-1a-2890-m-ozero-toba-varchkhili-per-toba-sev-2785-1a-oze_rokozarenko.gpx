@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.975Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/oz-okhodzhe-2560-m-pereval-toba-vostochnyi-1a-2890-m-ozero-toba-varchkhili-per-toba-sev-2785-1a-oze-8843152"/>
+	</metadata>
+	<trk>
+		<name>oz-okhodzhe-2560-m-pereval-toba-vostochnyi-1a-2890-m-ozero-toba-varchkhili-per-toba-sev-2785-1a-oze_rokozarenko</name>
+		<trkseg>
+			<trkpt lat="42.766023" lon="42.259493"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.767589" lon="42.258034"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.771559" lon="42.256510"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.775464" lon="42.257476"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.778061" lon="42.256768"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.781537" lon="42.254322"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.783489" lon="42.252305"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.784584" lon="42.250288"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.785657" lon="42.247155"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.786944" lon="42.245524"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.791064" lon="42.242971"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.792072" lon="42.244537"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.793467" lon="42.247970"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.795141" lon="42.249279"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.796343" lon="42.250846"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.796321" lon="42.252326"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.795377" lon="42.254644"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.796514" lon="42.255867"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.796836" lon="42.255244"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.796986" lon="42.255888"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.797158" lon="42.255309"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.797373" lon="42.255867"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.797480" lon="42.255352"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.798596" lon="42.256789"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.799132" lon="42.256467"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.800720" lon="42.250931"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.802200" lon="42.251682"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.803188" lon="42.253292"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.803788" lon="42.253013"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.804690" lon="42.253420"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.804775" lon="42.254558"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.805312" lon="42.255244"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.806707" lon="42.260351"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.807586" lon="42.262497"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.812350" lon="42.270222"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.813895" lon="42.275908"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.815933" lon="42.279084"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.822628" lon="42.279813"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

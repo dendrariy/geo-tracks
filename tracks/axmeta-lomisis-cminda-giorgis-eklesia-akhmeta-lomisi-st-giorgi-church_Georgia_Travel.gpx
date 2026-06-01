@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.946Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/axmeta-lomisis-cminda-giorgis-eklesia-akhmeta-lomisi-st-giorgi-church-118818241"/>
+	</metadata>
+	<trk>
+		<name>axmeta-lomisis-cminda-giorgis-eklesia-akhmeta-lomisi-st-giorgi-church_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.017858" lon="45.223034"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.016828" lon="45.221875"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.016978" lon="45.220480"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.016657" lon="45.220566"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.016378" lon="45.217927"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.015820" lon="45.217519"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.016506" lon="45.216210"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.017279" lon="45.216811"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

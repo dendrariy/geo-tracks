@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.980Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/stepancminda-gergetis-sameba-criuli-stapantsminda-gergeti-trinity-church-circular-232347060"/>
+	</metadata>
+	<trk>
+		<name>stepancminda-gergetis-sameba-criuli-stapantsminda-gergeti-trinity-church-circular_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.660709" lon="44.640587"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.660194" lon="44.635909"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.660580" lon="44.635458"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.660344" lon="44.634600"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.660580" lon="44.632755"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.662296" lon="44.631038"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.662919" lon="44.629815"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.661181" lon="44.627970"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.660945" lon="44.627304"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.661073" lon="44.626532"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.659614" lon="44.623313"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.659443" lon="44.621425"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.659915" lon="44.620395"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.662511" lon="44.617627"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.662940" lon="44.617563"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.662940" lon="44.618593"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.662661" lon="44.619129"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.662962" lon="44.620030"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.663176" lon="44.619987"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.664464" lon="44.617927"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.665558" lon="44.614537"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.666052" lon="44.614408"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.667017" lon="44.613078"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.667339" lon="44.613464"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.667318" lon="44.615975"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.668026" lon="44.620073"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.667983" lon="44.621189"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.667554" lon="44.622712"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.667082" lon="44.622820"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.664592" lon="44.627991"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.663756" lon="44.629128"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.662940" lon="44.628914"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.662575" lon="44.628334"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.662339" lon="44.629064"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

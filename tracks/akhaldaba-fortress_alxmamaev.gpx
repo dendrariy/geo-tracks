@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.944Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/akhaldaba-fortress-166524007"/>
+	</metadata>
+	<trk>
+		<name>akhaldaba-fortress_alxmamaev</name>
+		<trkseg>
+			<trkpt lat="41.923895" lon="43.485155"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.924324" lon="43.487237"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.925140" lon="43.487752"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.924946" lon="43.488782"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.923852" lon="43.488803"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.923294" lon="43.489533"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.921878" lon="43.490305"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.920076" lon="43.492429"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.920333" lon="43.493245"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.921363" lon="43.493331"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.922457" lon="43.492859"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.922693" lon="43.493116"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.923702" lon="43.492065"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.923573" lon="43.492665"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.923766" lon="43.492065"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.924131" lon="43.492408"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.926384" lon="43.491764"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.928465" lon="43.490112"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.929023" lon="43.489318"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.928852" lon="43.489232"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.929281" lon="43.489039"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.929281" lon="43.488417"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.929581" lon="43.488867"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

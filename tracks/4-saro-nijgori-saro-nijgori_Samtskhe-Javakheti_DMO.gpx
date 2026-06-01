@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.942Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/4-saro-nijgori-saro-nijgori-106391338"/>
+	</metadata>
+	<trk>
+		<name>4-saro-nijgori-saro-nijgori_Samtskhe-Javakheti_DMO</name>
+		<trkseg>
+			<trkpt lat="41.505878" lon="43.279870"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.506457" lon="43.279891"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.506586" lon="43.279526"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.505900" lon="43.279054"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.505470" lon="43.277230"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.505685" lon="43.276158"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.504805" lon="43.274806"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.505170" lon="43.274398"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.504805" lon="43.274076"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.505234" lon="43.272746"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.505642" lon="43.272832"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.505900" lon="43.273432"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.506200" lon="43.273261"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.506050" lon="43.270664"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.506393" lon="43.269077"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.505449" lon="43.264742"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.504762" lon="43.264678"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.503539" lon="43.262725"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

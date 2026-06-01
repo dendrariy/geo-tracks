@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.975Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/patara-sakhvlari-vakhani-110675379"/>
+	</metadata>
+	<trk>
+		<name>patara-sakhvlari-vakhani_mr.crowley</name>
+		<trkseg>
+			<trkpt lat="41.974557" lon="43.299933"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.973097" lon="43.305254"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.972668" lon="43.308172"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.972025" lon="43.309825"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.971274" lon="43.310898"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.969793" lon="43.310855"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.968763" lon="43.311541"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.968162" lon="43.312421"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.967969" lon="43.314867"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.966896" lon="43.315425"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.966317" lon="43.314975"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.963678" lon="43.315189"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.961146" lon="43.312764"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.960116" lon="43.312614"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.959493" lon="43.313258"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957648" lon="43.312657"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.956360" lon="43.312657"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.955524" lon="43.311305"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.954472" lon="43.311477"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.953850" lon="43.312421"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.952326" lon="43.311799"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.951661" lon="43.312035"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.951447" lon="43.311498"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.951275" lon="43.312185"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.949473" lon="43.312528"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.947992" lon="43.314953"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.947885" lon="43.315811"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.948357" lon="43.317249"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.947992" lon="43.318751"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.945996" lon="43.319717"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.944087" lon="43.319266"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.943636" lon="43.319931"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.943550" lon="43.320360"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.943958" lon="43.320983"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.944280" lon="43.322613"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.944215" lon="43.324287"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.943765" lon="43.325188"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.943486" lon="43.327098"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.942349" lon="43.325854"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

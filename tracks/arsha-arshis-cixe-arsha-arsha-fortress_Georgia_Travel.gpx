@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.945Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/arsha-arshis-cixe-arsha-arsha-fortress-178227861"/>
+	</metadata>
+	<trk>
+		<name>arsha-arshis-cixe-arsha-arsha-fortress_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.622192" lon="44.606276"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.621763" lon="44.602800"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.623308" lon="44.601834"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.624960" lon="44.600117"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.626484" lon="44.599602"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.626999" lon="44.600075"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.629230" lon="44.597843"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.630625" lon="44.597671"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.630882" lon="44.597285"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.631054" lon="44.597864"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.631741" lon="44.597435"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.631698" lon="44.597950"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.632728" lon="44.598658"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.632492" lon="44.599409"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.631633" lon="44.599216"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

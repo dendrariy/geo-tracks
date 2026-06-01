@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.961Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/khadori-makhvali-waterfall-xadori-maxvalis-chanchkeri-40657748"/>
+	</metadata>
+	<trk>
+		<name>khadori-makhvali-waterfall-xadori-maxvalis-chanchkeri_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.251640" lon="45.329120"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.252433" lon="45.329957"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.252841" lon="45.331781"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.254386" lon="45.333283"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.255974" lon="45.335965"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.259686" lon="45.337811"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.261317" lon="45.339592"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.263463" lon="45.340150"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.265544" lon="45.342059"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.265866" lon="45.343497"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.266939" lon="45.344827"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.268570" lon="45.345536"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.269406" lon="45.346651"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.273076" lon="45.349548"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.273955" lon="45.352123"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.274556" lon="45.352381"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.274900" lon="45.352102"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.275136" lon="45.352638"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.275543" lon="45.352595"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

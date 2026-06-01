@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.964Z</time>
+		<link href="https://www.komoot.com/tour/2722269751"/>
+	</metadata>
+	<trk>
+		<name>Kutaisi-Gelati_1_Dmitriy_GEO</name>
+		<trkseg>
+			<trkpt lat="42.266896" lon="42.729845"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.267862" lon="42.730553"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.268183" lon="42.732527"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.270029" lon="42.734759"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.270780" lon="42.735017"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.271681" lon="42.734115"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.272217" lon="42.734051"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.272368" lon="42.735295"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.271617" lon="42.737849"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.272217" lon="42.737398"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.272089" lon="42.738772"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.272411" lon="42.738536"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.272604" lon="42.739093"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.272196" lon="42.740038"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.272904" lon="42.741454"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.272775" lon="42.741969"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.273312" lon="42.742548"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

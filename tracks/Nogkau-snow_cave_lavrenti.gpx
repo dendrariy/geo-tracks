@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.973Z</time>
+		<link href="https://www.relive.com/view/vXvLEV4YD1O"/>
+	</metadata>
+	<trk>
+		<name>Nogkau-snow_cave_lavrenti</name>
+		<trkseg>
+			<trkpt lat="42.565673" lon="44.488430"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.566853" lon="44.486628"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.569556" lon="44.483624"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.574856" lon="44.476092"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.575672" lon="44.474268"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.576809" lon="44.473624"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.579599" lon="44.470556"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.579534" lon="44.470020"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.577753" lon="44.471436"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.577260" lon="44.471243"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.576895" lon="44.468861"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.577281" lon="44.467016"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.576230" lon="44.466672"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.575929" lon="44.465750"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.575951" lon="44.464312"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.576251" lon="44.464569"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.577646" lon="44.463282"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.578139" lon="44.461994"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.577861" lon="44.461630"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.578955" lon="44.461050"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.577431" lon="44.460750"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.578054" lon="44.459956"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.578440" lon="44.458390"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.579856" lon="44.459398"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.578654" lon="44.456888"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

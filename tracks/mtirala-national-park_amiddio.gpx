@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.971Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/mtirala-national-park-103718551"/>
+	</metadata>
+	<trk>
+		<name>mtirala-national-park_amiddio</name>
+		<trkseg>
+			<trkpt lat="41.679278" lon="41.861088"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678655" lon="41.861990"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678441" lon="41.863363"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678848" lon="41.865273"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678634" lon="41.866002"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678891" lon="41.867354"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676874" lon="41.870229"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675823" lon="41.870465"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676037" lon="41.870980"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.674879" lon="41.873620"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673591" lon="41.874907"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.671960" lon="41.875615"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.670544" lon="41.877740"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.670866" lon="41.877096"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.672411" lon="41.876195"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673741" lon="41.876087"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.674771" lon="41.875100"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675329" lon="41.873942"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675115" lon="41.875851"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675265" lon="41.873942"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676316" lon="41.871989"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675930" lon="41.870422"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676896" lon="41.870208"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.677861" lon="41.868341"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678741" lon="41.867397"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678805" lon="41.865208"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678355" lon="41.862955"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678655" lon="41.861560"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.679256" lon="41.860960"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

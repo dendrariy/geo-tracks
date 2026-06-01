@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.983Z</time>
+		<link href="https://www.relive.com/view/v4OGerxwy5q"/>
+	</metadata>
+	<trk>
+		<name>Tsakatskarish_lake-2580_lavrenti</name>
+		<trkseg>
+			<trkpt lat="42.795270" lon="42.255008"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.794304" lon="42.256532"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.792630" lon="42.257433"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.792630" lon="42.258120"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.791901" lon="42.258399"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.791729" lon="42.259321"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.791343" lon="42.259493"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.790935" lon="42.260544"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.790377" lon="42.261038"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.790227" lon="42.261810"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.790034" lon="42.261768"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

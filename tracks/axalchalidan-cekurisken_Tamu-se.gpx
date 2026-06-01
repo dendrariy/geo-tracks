@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.946Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/axalchalidan-cekurisken-179001255"/>
+	</metadata>
+	<trk>
+		<name>axalchalidan-cekurisken_Tamu-se</name>
+		<trkseg>
+			<trkpt lat="42.680385" lon="42.641547"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.681523" lon="42.640925"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.682231" lon="42.639830"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.684205" lon="42.641096"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.688325" lon="42.640195"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.689183" lon="42.640603"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.690106" lon="42.639616"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.693625" lon="42.639036"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.694740" lon="42.637921"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.695749" lon="42.637642"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.695942" lon="42.638028"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.698388" lon="42.636976"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.698667" lon="42.637170"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.699053" lon="42.636655"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.700405" lon="42.636933"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.703452" lon="42.635303"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704332" lon="42.635818"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704632" lon="42.635582"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704783" lon="42.633479"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705426" lon="42.636075"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704439" lon="42.638951"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.701907" lon="42.638006"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.700427" lon="42.636805"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.699955" lon="42.637148"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.699161" lon="42.636955"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.699032" lon="42.637448"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.698367" lon="42.637019"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.694333" lon="42.638521"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.691586" lon="42.640324"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.690492" lon="42.640131"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.689827" lon="42.640882"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.688325" lon="42.640817"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.683046" lon="42.642920"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.958Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/gudauri-sadzele-175292596"/>
+	</metadata>
+	<trk>
+		<name>gudauri-sadzele_Tamu-se</name>
+		<trkseg>
+			<trkpt lat="42.491450" lon="44.494953"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.491751" lon="44.494803"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.496278" lon="44.497164"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.497201" lon="44.497292"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.501192" lon="44.496005"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.506342" lon="44.495383"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.508316" lon="44.494589"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.508402" lon="44.495640"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.509260" lon="44.496219"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.509411" lon="44.497142"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.510655" lon="44.496606"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.511621" lon="44.497485"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.511900" lon="44.498880"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.511771" lon="44.500876"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.512887" lon="44.502635"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.512930" lon="44.504438"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.513702" lon="44.505167"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.513552" lon="44.506820"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.512973" lon="44.507377"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.512736" lon="44.508300"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.512543" lon="44.511884"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.512736" lon="44.512956"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.512479" lon="44.510231"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.512887" lon="44.507292"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.512350" lon="44.506626"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.511320" lon="44.505832"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.509990" lon="44.505983"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.509518" lon="44.506390"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.509475" lon="44.507592"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.507029" lon="44.509373"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.505891" lon="44.509008"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.502244" lon="44.508922"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.500870" lon="44.508043"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499497" lon="44.504652"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.497137" lon="44.502743"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.497373" lon="44.501863"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.495742" lon="44.499674"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.491365" lon="44.495318"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

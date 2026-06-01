@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.973Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/navarzetis-tiris-gvtismshoblis-mizinebis-saxelobis-tazari-navarzetis-cixe-da-chanchkeri-239948915"/>
+	</metadata>
+	<trk>
+		<name>navarzetis-tiris-gvtismshoblis-mizinebis-saxelobis-tazari-navarzetis-cixe-da-chanchkeri_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.277560" lon="43.233178"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.277324" lon="43.233435"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.277990" lon="43.234379"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.277839" lon="43.235109"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.275415" lon="43.235345"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.275007" lon="43.235774"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.275264" lon="43.236053"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.274728" lon="43.236268"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.274192" lon="43.235796"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.273805" lon="43.236225"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.272067" lon="43.235409"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.270908" lon="43.236354"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.272325" lon="43.237040"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.271102" lon="43.237126"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.267862" lon="43.238564"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.268999" lon="43.240345"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.268462" lon="43.240817"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

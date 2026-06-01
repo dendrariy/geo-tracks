@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.953Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/david-gareja-2581065"/>
+	</metadata>
+	<trk>
+		<name>david-gareja_Grigol_Makharadze</name>
+		<trkseg>
+			<trkpt lat="41.448071" lon="45.376134"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.447835" lon="45.375576"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.447384" lon="45.375898"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.447213" lon="45.375598"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.447256" lon="45.374911"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.446784" lon="45.373903"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.444874" lon="45.374332"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.444874" lon="45.372830"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.445217" lon="45.372508"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.443479" lon="45.374225"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.442535" lon="45.375877"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.440969" lon="45.376950"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.441441" lon="45.377229"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.443930" lon="45.377121"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.446097" lon="45.376134"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.446312" lon="45.375448"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.447406" lon="45.375898"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

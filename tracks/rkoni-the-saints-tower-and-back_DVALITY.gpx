@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.976Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/rkoni-the-saints-tower-and-back-100226759"/>
+	</metadata>
+	<trk>
+		<name>rkoni-the-saints-tower-and-back_DVALITY</name>
+		<trkseg>
+			<trkpt lat="41.815319" lon="44.226325"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.814289" lon="44.227655"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.813796" lon="44.227441"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811650" lon="44.227934"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.810899" lon="44.230058"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.810234" lon="44.230294"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.809719" lon="44.229114"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.807766" lon="44.226690"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.807294" lon="44.224115"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.807037" lon="44.224351"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.806951" lon="44.223836"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.805878" lon="44.222956"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.804891" lon="44.225145"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.806178" lon="44.225724"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.805921" lon="44.225316"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.804826" lon="44.225209"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.805470" lon="44.223557"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.806285" lon="44.223686"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.806264" lon="44.224158"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.805599" lon="44.222999"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.805771" lon="44.223428"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.805899" lon="44.222977"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.806371" lon="44.223256"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.807294" lon="44.224222"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.807830" lon="44.226969"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.809805" lon="44.229286"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.810255" lon="44.230402"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.810899" lon="44.230080"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.812079" lon="44.227290"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.813345" lon="44.227247"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.814289" lon="44.227741"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.815105" lon="44.226196"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.815491" lon="44.226303"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

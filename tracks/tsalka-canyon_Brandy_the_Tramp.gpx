@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.983Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/tsalka-canyon-24033228"/>
+	</metadata>
+	<trk>
+		<name>tsalka-canyon_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="41.589284" lon="44.126203"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.589885" lon="44.125989"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.590099" lon="44.126439"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.590872" lon="44.125152"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.591215" lon="44.127233"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.591580" lon="44.125581"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.592138" lon="44.126826"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.593661" lon="44.124294"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.594541" lon="44.123929"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.594734" lon="44.123392"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.595121" lon="44.123650"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.594927" lon="44.123392"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.595206" lon="44.122899"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.596043" lon="44.122362"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.595614" lon="44.122041"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.595829" lon="44.121568"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.596150" lon="44.121590"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

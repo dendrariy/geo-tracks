@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.975Z</time>
+		<link href="https://www.relive.com/view/vZqNo9JrKGv"/>
+	</metadata>
+	<trk>
+		<name>Peak_Razdelnaya_6148-Camp_3_lavrenti</name>
+		<trkseg>
+			<trkpt lat="39.362965" lon="72.832386"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="39.362750" lon="72.827365"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="39.362965" lon="72.832815"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="39.362750" lon="72.832751"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

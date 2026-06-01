@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.961Z</time>
+		<link href="https://www.relive.com/view/vMv8pBxDxNv"/>
+	</metadata>
+	<trk>
+		<name>Kazbek_5033-from_the_camp_at_4000_lavrenti</name>
+		<trkseg>
+			<trkpt lat="42.685363" lon="44.506390"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.685492" lon="44.505618"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.686651" lon="44.504609"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.689848" lon="44.502507"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.691586" lon="44.502034"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.694290" lon="44.499996"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.696200" lon="44.500060"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.698538" lon="44.499245"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.699182" lon="44.500490"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.699311" lon="44.502077"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.699933" lon="44.503408"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.700019" lon="44.504502"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.700191" lon="44.504180"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.700126" lon="44.505854"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.700577" lon="44.507249"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.697208" lon="44.517355"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.699526" lon="44.502571"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.699118" lon="44.500318"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.698517" lon="44.499159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.698088" lon="44.498966"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.696414" lon="44.500103"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.694998" lon="44.499867"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.693904" lon="44.500168"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.692123" lon="44.501241"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.691586" lon="44.501970"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.689054" lon="44.503043"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.688625" lon="44.502871"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.685299" lon="44.505554"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.685428" lon="44.506090"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.685235" lon="44.506026"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

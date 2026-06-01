@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.958Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/hike-to-intsra-waterfall-11199234"/>
+	</metadata>
+	<trk>
+		<name>hike-to-intsra-waterfall_Caucasus_Trekking</name>
+		<trkseg>
+			<trkpt lat="42.708538" lon="42.095342"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.710598" lon="42.096179"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.716005" lon="42.097080"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.717593" lon="42.097960"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.719417" lon="42.097638"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.720232" lon="42.097037"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.720833" lon="42.095835"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.721906" lon="42.094848"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.722528" lon="42.094698"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.724459" lon="42.095814"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.725446" lon="42.095449"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.727721" lon="42.095986"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.728815" lon="42.097809"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.729695" lon="42.100685"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730789" lon="42.101672"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.729974" lon="42.102423"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.729738" lon="42.104054"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730553" lon="42.106500"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.731004" lon="42.106071"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730875" lon="42.107015"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730940" lon="42.106114"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730553" lon="42.106564"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.729781" lon="42.103946"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730146" lon="42.103152"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.729995" lon="42.102401"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730897" lon="42.101693"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.729631" lon="42.100470"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.728493" lon="42.097123"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.727163" lon="42.095792"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.725640" lon="42.095578"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.724223" lon="42.095857"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.722700" lon="42.093883"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.720769" lon="42.093754"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.720339" lon="42.093024"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.721198" lon="42.092424"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.721133" lon="42.091565"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.720297" lon="42.090707"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.720554" lon="42.088947"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.719953" lon="42.088111"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.720061" lon="42.086716"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.719438" lon="42.086437"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.720061" lon="42.082145"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.948Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/borjomi-petre-fortress-borjomi-petres-cixe-115472167"/>
+	</metadata>
+	<trk>
+		<name>borjomi-petre-fortress-borjomi-petres-cixe_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.836820" lon="43.371687"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.836884" lon="43.373082"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.834846" lon="43.373940"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.834588" lon="43.374434"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.834180" lon="43.372739"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.833387" lon="43.371709"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.828752" lon="43.369134"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.827958" lon="43.369048"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.824739" lon="43.365743"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.824417" lon="43.365658"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.824117" lon="43.366258"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

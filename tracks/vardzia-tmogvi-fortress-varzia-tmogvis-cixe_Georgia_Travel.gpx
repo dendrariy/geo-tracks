@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.986Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/vardzia-tmogvi-fortress-varzia-tmogvis-cixe-105955395"/>
+	</metadata>
+	<trk>
+		<name>vardzia-tmogvi-fortress-varzia-tmogvis-cixe_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.377947" lon="43.281007"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.377904" lon="43.281844"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.378870" lon="43.284333"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.380522" lon="43.286929"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.380673" lon="43.288002"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.381745" lon="43.290405"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.382818" lon="43.291607"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.384127" lon="43.296285"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.385973" lon="43.298860"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.386552" lon="43.300169"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.389556" lon="43.304117"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.390007" lon="43.305083"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.390221" lon="43.307121"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.390758" lon="43.308194"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.392775" lon="43.309374"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.393590" lon="43.310662"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.393869" lon="43.311906"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.394405" lon="43.312314"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.395114" lon="43.311734"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.394985" lon="43.312636"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.395371" lon="43.312764"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.395543" lon="43.313322"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.398225" lon="43.315189"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.399298" lon="43.316734"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.399641" lon="43.317592"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.398568" lon="43.316691"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.397538" lon="43.316755"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.396787" lon="43.316198"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.396659" lon="43.316648"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.395393" lon="43.316090"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.395242" lon="43.316305"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.964Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/kveda-sairme-57946965"/>
+	</metadata>
+	<trk>
+		<name>kveda-sairme_Tamu-se</name>
+		<trkseg>
+			<trkpt lat="42.554579" lon="42.872195"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.553506" lon="42.870972"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.553249" lon="42.870050"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.552626" lon="42.869556"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.552111" lon="42.870157"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.551360" lon="42.869320"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.550738" lon="42.869427"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.549966" lon="42.868483"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.550073" lon="42.867904"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.549687" lon="42.868140"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.550309" lon="42.871359"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.550030" lon="42.869277"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.550523" lon="42.869020"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.551553" lon="42.870629"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.552540" lon="42.869642"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.554300" lon="42.872152"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.554708" lon="42.872238"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

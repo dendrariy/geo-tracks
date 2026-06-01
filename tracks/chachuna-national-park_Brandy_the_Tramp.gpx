@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.950Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/chachuna-national-park-65957053"/>
+	</metadata>
+	<trk>
+		<name>chachuna-national-park_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="41.264007" lon="45.984331"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.266604" lon="45.986369"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.267827" lon="45.986283"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.267591" lon="45.985961"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.268492" lon="45.986798"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.268942" lon="45.986755"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.269200" lon="45.986584"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.269050" lon="45.985790"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.269350" lon="45.984910"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.269178" lon="45.984137"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.268299" lon="45.983000"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.267848" lon="45.983343"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.268320" lon="45.983086"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.269372" lon="45.984846"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.269050" lon="45.985790"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.269243" lon="45.986777"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.268599" lon="45.987871"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.267784" lon="45.987549"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.266732" lon="45.987828"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.265273" lon="45.985339"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.264415" lon="45.984846"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.264329" lon="45.984395"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.261497" lon="45.983365"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.260123" lon="45.982013"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.259844" lon="45.980854"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

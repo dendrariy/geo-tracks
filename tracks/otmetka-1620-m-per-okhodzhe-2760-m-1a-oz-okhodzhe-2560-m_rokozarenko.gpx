@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.974Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/otmetka-1620-m-per-okhodzhe-2760-m-1a-oz-okhodzhe-2560-m-8843151"/>
+	</metadata>
+	<trk>
+		<name>otmetka-1620-m-per-okhodzhe-2760-m-1a-oz-okhodzhe-2560-m_rokozarenko</name>
+		<trkseg>
+			<trkpt lat="42.709868" lon="42.277281"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.714653" lon="42.275136"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.712872" lon="42.278247"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.715662" lon="42.277389"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.719889" lon="42.273162"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.727592" lon="42.270630"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.732699" lon="42.270308"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.743213" lon="42.271853"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.745037" lon="42.273805"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.748106" lon="42.274127"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.749136" lon="42.271059"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.750230" lon="42.269406"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.751882" lon="42.263591"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.753363" lon="42.261682"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.762289" lon="42.258828"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.765958" lon="42.259557"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

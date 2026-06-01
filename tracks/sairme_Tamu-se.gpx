@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.976Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/sairme-172780446"/>
+	</metadata>
+	<trk>
+		<name>sairme_Tamu-se</name>
+		<trkseg>
+			<trkpt lat="41.914926" lon="42.756796"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.914561" lon="42.757332"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.914024" lon="42.757418"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.913552" lon="42.755122"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.912673" lon="42.753942"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.912136" lon="42.752226"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.911214" lon="42.751110"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.910055" lon="42.750960"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.908810" lon="42.749157"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.909475" lon="42.749758"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.909990" lon="42.751002"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.909239" lon="42.749500"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.908167" lon="42.749522"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.907823" lon="42.748814"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.907587" lon="42.749994"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.907222" lon="42.749007"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.907244" lon="42.747741"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.908188" lon="42.747462"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.908467" lon="42.747011"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.908102" lon="42.747054"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.906986" lon="42.745767"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.906428" lon="42.745595"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.905720" lon="42.746174"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.905763" lon="42.747333"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

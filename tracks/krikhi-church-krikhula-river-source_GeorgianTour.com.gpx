@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.963Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/krikhi-church-krikhula-river-source-21778086"/>
+	</metadata>
+	<trk>
+		<name>krikhi-church-krikhula-river-source_GeorgianTour.com</name>
+		<trkseg>
+			<trkpt lat="42.496557" lon="43.193760"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.496386" lon="43.194039"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.497780" lon="43.196593"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.497072" lon="43.199983"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.496171" lon="43.202472"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.494261" lon="43.204167"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.493832" lon="43.205197"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.491665" lon="43.207965"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.491880" lon="43.208587"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.493425" lon="43.209682"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.492480" lon="43.210604"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.491622" lon="43.210755"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.491408" lon="43.211334"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.491686" lon="43.211999"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.492180" lon="43.211913"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.492910" lon="43.212578"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.492952" lon="43.213136"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.493618" lon="43.213158"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.492287" lon="43.214596"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.492395" lon="43.214832"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.495549" lon="43.215132"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

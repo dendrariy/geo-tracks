@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.949Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/cagveri-bakuriani-tsaghveri-bakuriani-116644565"/>
+	</metadata>
+	<trk>
+		<name>cagveri-bakuriani-tsaghveri-bakuriani_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.758177" lon="43.532083"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.758821" lon="43.531804"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.760109" lon="43.532577"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.762834" lon="43.531869"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.763134" lon="43.531118"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.764658" lon="43.530538"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.766310" lon="43.530367"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.767061" lon="43.530731"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.767812" lon="43.530302"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.768499" lon="43.528757"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.768735" lon="43.526418"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.769035" lon="43.526032"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.772382" lon="43.523715"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.773648" lon="43.523779"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.775816" lon="43.523092"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.777060" lon="43.521891"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.778433" lon="43.519852"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.778584" lon="43.518501"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.779335" lon="43.518222"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.779893" lon="43.517170"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.782146" lon="43.515625"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.783691" lon="43.516183"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.783691" lon="43.513608"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.785064" lon="43.511141"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.786094" lon="43.510668"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.787145" lon="43.511076"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.787682" lon="43.510347"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.792081" lon="43.510411"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.792102" lon="43.508115"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.791179" lon="43.506527"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.790750" lon="43.503630"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.792832" lon="43.503866"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.793518" lon="43.503502"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.796415" lon="43.498867"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.798411" lon="43.494554"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.798604" lon="43.491142"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.799119" lon="43.490670"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.798368" lon="43.490262"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.798303" lon="43.489597"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.798561" lon="43.489382"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

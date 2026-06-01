@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.961Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/khadori-khorajo-xadori-xorajo-40362651"/>
+	</metadata>
+	<trk>
+		<name>khadori-khorajo-xadori-xorajo_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.235546" lon="45.330601"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.235804" lon="45.330816"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.235589" lon="45.331159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.236147" lon="45.332017"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.236169" lon="45.332811"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.235310" lon="45.339463"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.235718" lon="45.340815"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.235675" lon="45.343411"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.235203" lon="45.344591"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.234903" lon="45.346845"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.233293" lon="45.350149"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.233551" lon="45.352209"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.234087" lon="45.352273"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.233637" lon="45.353647"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.234066" lon="45.355192"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.234044" lon="45.356222"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.234945" lon="45.357809"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.235804" lon="45.358324"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.235632" lon="45.359204"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.236233" lon="45.363818"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.236726" lon="45.364719"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.236641" lon="45.365534"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.237048" lon="45.366156"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.237220" lon="45.367658"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

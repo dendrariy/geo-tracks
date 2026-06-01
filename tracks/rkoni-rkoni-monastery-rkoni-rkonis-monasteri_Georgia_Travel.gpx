@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.976Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/rkoni-rkoni-monastery-rkoni-rkonis-monasteri-40868064"/>
+	</metadata>
+	<trk>
+		<name>rkoni-rkoni-monastery-rkoni-rkonis-monasteri_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.815877" lon="44.226067"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.815105" lon="44.226175"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.814675" lon="44.227290"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.812637" lon="44.227162"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811714" lon="44.228041"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811199" lon="44.229586"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.810320" lon="44.229737"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.808195" lon="44.227612"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.807294" lon="44.224394"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.806371" lon="44.223106"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.805470" lon="44.223943"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.805942" lon="44.225359"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.803882" lon="44.224544"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.802123" lon="44.222484"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.801307" lon="44.220767"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.797938" lon="44.215553"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

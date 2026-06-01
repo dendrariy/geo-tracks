@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.987Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/walk-to-gveleti-waterfalls-16451211"/>
+	</metadata>
+	<trk>
+		<name>walk-to-gveleti-waterfalls_Caucasus_Trekking</name>
+		<trkseg>
+			<trkpt lat="42.710061" lon="44.626704"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.708023" lon="44.625910"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707508" lon="44.625008"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707164" lon="44.625094"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.706757" lon="44.623421"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705147" lon="44.621253"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704954" lon="44.620717"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705255" lon="44.619901"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704697" lon="44.617863"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704911" lon="44.616618"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705169" lon="44.616576"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704911" lon="44.615803"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704997" lon="44.614258"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705212" lon="44.615717"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704740" lon="44.617863"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705190" lon="44.620159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704783" lon="44.620073"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704182" lon="44.620674"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.702058" lon="44.618593"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.702294" lon="44.618550"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.702894" lon="44.619816"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704160" lon="44.620416"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704890" lon="44.620159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704868" lon="44.620867"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

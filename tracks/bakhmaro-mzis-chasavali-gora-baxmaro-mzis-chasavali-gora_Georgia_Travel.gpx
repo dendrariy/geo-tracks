@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.946Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/bakhmaro-mzis-chasavali-gora-baxmaro-mzis-chasavali-gora-105999451"/>
+	</metadata>
+	<trk>
+		<name>bakhmaro-mzis-chasavali-gora-baxmaro-mzis-chasavali-gora_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.861839" lon="42.318545"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.862440" lon="42.320154"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.865187" lon="42.319532"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.865144" lon="42.320755"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.865530" lon="42.321613"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.864157" lon="42.322042"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.864157" lon="42.323651"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.862676" lon="42.325690"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.861711" lon="42.328544"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.859050" lon="42.332835"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.858299" lon="42.334530"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.857097" lon="42.334552"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.855853" lon="42.335282"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.856110" lon="42.334681"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.857827" lon="42.333651"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.858556" lon="42.332084"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.860316" lon="42.329767"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.860573" lon="42.328608"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.860166" lon="42.327986"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.857934" lon="42.326999"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.856690" lon="42.325604"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.854608" lon="42.326570"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.853063" lon="42.326012"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.851840" lon="42.323651"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.852098" lon="42.323995"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.852098" lon="42.322922"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.852849" lon="42.320647"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.854007" lon="42.324016"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.854372" lon="42.324381"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.856518" lon="42.322707"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.858149" lon="42.322943"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.859286" lon="42.322428"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.862269" lon="42.319725"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

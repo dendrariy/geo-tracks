@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.966Z</time>
+		<link href="https://www.komoot.com/tour/2058657198"/>
+	</metadata>
+	<trk>
+		<name>Makhuntseti_2_waterfalls_Evgenia</name>
+		<trkseg>
+			<trkpt lat="41.573212" lon="41.859307"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.574049" lon="41.859114"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.574714" lon="41.858471"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.573813" lon="41.859222"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.574178" lon="41.859629"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.574521" lon="41.859286"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.574586" lon="41.861088"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.575208" lon="41.858535"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.575444" lon="41.860595"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.575723" lon="41.859028"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.576603" lon="41.857720"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.577225" lon="41.857355"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.580980" lon="41.857398"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.583061" lon="41.856561"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.584134" lon="41.857076"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.584950" lon="41.855960"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.586001" lon="41.855509"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.588791" lon="41.851969"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.588705" lon="41.849587"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.588447" lon="41.849609"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.588748" lon="41.849115"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.588404" lon="41.849802"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.588898" lon="41.851175"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.588726" lon="41.852033"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.586001" lon="41.855488"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.584928" lon="41.855939"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.584177" lon="41.857033"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.583040" lon="41.856561"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.580980" lon="41.857355"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.577268" lon="41.857269"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.576624" lon="41.857591"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.575701" lon="41.858921"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.575401" lon="41.860573"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.575165" lon="41.858471"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.574564" lon="41.861003"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.574543" lon="41.859157"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.574221" lon="41.859629"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.573856" lon="41.859200"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.574028" lon="41.858921"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.572032" lon="41.860037"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

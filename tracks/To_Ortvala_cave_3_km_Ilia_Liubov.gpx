@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.982Z</time>
+		<link href="https://www.komoot.com/tour/1489903188"/>
+	</metadata>
+	<trk>
+		<name>To_Ortvala_cave_3_km_Ilia_Liubov</name>
+		<trkseg>
+			<trkpt lat="42.283633" lon="42.761839"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.283161" lon="42.762997"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.283418" lon="42.763212"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.283011" lon="42.763040"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.282817" lon="42.763620"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.282560" lon="42.763040"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.282710" lon="42.763298"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.282367" lon="42.763255"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.282775" lon="42.764027"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.280800" lon="42.764392"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.279792" lon="42.765980"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.279534" lon="42.767203"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.278934" lon="42.767332"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.279685" lon="42.764628"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.279942" lon="42.761603"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.280328" lon="42.761517"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.279856" lon="42.760079"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.282624" lon="42.758577"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.283182" lon="42.756968"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.283011" lon="42.754243"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

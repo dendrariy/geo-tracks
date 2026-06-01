@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.949Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/cagveris-mineraluri-cqlebis-tqe-parki-tsaghveri-mineral-spring-forest-park-116644367"/>
+	</metadata>
+	<trk>
+		<name>cagveris-mineraluri-cqlebis-tqe-parki-tsaghveri-mineral-spring-forest-park_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.798346" lon="43.490198"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.797145" lon="43.489704"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.796908" lon="43.490091"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.795621" lon="43.489533"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.795235" lon="43.489833"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.794334" lon="43.489683"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.795063" lon="43.483653"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.796715" lon="43.482516"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.796973" lon="43.484447"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.796694" lon="43.484855"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.795900" lon="43.484941"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.796973" lon="43.485456"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.796887" lon="43.487172"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.797359" lon="43.489382"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.797145" lon="43.489704"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.796136" lon="43.487601"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.796072" lon="43.486700"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.795149" lon="43.486486"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.793540" lon="43.484469"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.795063" lon="43.483675"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.794033" lon="43.482537"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.795042" lon="43.482902"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.796951" lon="43.482301"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.796823" lon="43.482709"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.798561" lon="43.489382"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.798303" lon="43.489597"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.798368" lon="43.490262"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.799097" lon="43.490584"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.798604" lon="43.491142"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.798668" lon="43.491678"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.799033" lon="43.490970"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

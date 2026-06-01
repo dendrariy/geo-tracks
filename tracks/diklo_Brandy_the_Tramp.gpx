@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.953Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/diklo-40668536"/>
+	</metadata>
+	<trk>
+		<name>diklo_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="42.395213" lon="45.688107"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.396736" lon="45.688622"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.397316" lon="45.690039"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.398603" lon="45.691455"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400277" lon="45.690661"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400363" lon="45.691927"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400727" lon="45.692184"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400513" lon="45.693064"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400835" lon="45.695103"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.402873" lon="45.696926"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.401071" lon="45.698257"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.401800" lon="45.699222"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400341" lon="45.703128"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400878" lon="45.701583"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400706" lon="45.702441"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.399955" lon="45.702613"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.397723" lon="45.701905"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.396007" lon="45.702334"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.395792" lon="45.701948"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.397101" lon="45.701669"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.399268" lon="45.702527"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400599" lon="45.702334"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.401822" lon="45.699137"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.401071" lon="45.698235"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.402873" lon="45.696884"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400792" lon="45.695124"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400470" lon="45.693107"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400727" lon="45.692227"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400363" lon="45.691970"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.400298" lon="45.690639"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.398667" lon="45.691369"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.397316" lon="45.689996"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.396693" lon="45.688579"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.395449" lon="45.688129"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

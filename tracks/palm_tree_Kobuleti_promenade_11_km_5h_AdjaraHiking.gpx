@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.975Z</time>
+		<link href="https://www.komoot.com/tour/1977766552"/>
+	</metadata>
+	<trk>
+		<name>palm_tree_Kobuleti_promenade_11_km_5h_AdjaraHiking</name>
+		<trkseg>
+			<trkpt lat="41.810384" lon="41.780408"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.809483" lon="41.779528"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.809890" lon="41.778369"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.809139" lon="41.777876"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.809332" lon="41.777210"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.808817" lon="41.776846"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.809483" lon="41.773069"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.810770" lon="41.773284"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.810856" lon="41.772769"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811564" lon="41.772511"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.815856" lon="41.773262"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.816650" lon="41.772983"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.821671" lon="41.773992"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845596" lon="41.777296"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845274" lon="41.776824"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845446" lon="41.775708"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845274" lon="41.776824"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845596" lon="41.777296"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847592" lon="41.777768"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850638" lon="41.777854"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850510" lon="41.778262"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850638" lon="41.777854"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.858900" lon="41.778369"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.866496" lon="41.777854"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.866474" lon="41.777511"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.866925" lon="41.777468"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.866946" lon="41.777833"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.871302" lon="41.776052"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.879027" lon="41.773713"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.879370" lon="41.774035"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.888189" lon="41.772597"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.888983" lon="41.772790"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.889048" lon="41.773777"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

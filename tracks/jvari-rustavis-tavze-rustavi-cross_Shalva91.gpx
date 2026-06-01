@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.960Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/jvari-rustavis-tavze-rustavi-cross-55482683"/>
+	</metadata>
+	<trk>
+		<name>jvari-rustavis-tavze-rustavi-cross_Shalva91</name>
+		<trkseg>
+			<trkpt lat="41.552119" lon="44.972730"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.552205" lon="44.971958"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.550789" lon="44.969662"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.550360" lon="44.968267"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.549652" lon="44.967430"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.549287" lon="44.965627"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.548879" lon="44.965091"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.548772" lon="44.962044"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.549072" lon="44.960370"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.548836" lon="44.959448"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.549051" lon="44.958031"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.547978" lon="44.956293"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

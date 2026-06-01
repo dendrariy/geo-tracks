@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.942Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/8-3-shoka-okro-fortress-shoqa-okros-cixe-106590580"/>
+	</metadata>
+	<trk>
+		<name>8-3-shoka-okro-fortress-shoqa-okros-cixe_Samtskhe-Javakheti_DMO</name>
+		<trkseg>
+			<trkpt lat="41.702709" lon="42.776752"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.702645" lon="42.773748"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.703761" lon="42.774778"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.704168" lon="42.773576"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.705198" lon="42.772052"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.705134" lon="42.771323"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.703310" lon="42.770336"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.702860" lon="42.769735"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.700370" lon="42.769628"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.699362" lon="42.769177"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.698718" lon="42.767697"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.699126" lon="42.765272"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.699534" lon="42.764864"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.700735" lon="42.764843"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.702452" lon="42.765336"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.703975" lon="42.764800"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.704769" lon="42.763984"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.705392" lon="42.763834"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.705542" lon="42.763190"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.706765" lon="42.761903"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.708245" lon="42.761367"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.709554" lon="42.761216"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.709898" lon="42.761581"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.709983" lon="42.762160"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.709662" lon="42.762611"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.708953" lon="42.762611"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.708889" lon="42.762139"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.708739" lon="42.762590"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.987Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/xixani-227202980"/>
+	</metadata>
+	<trk>
+		<name>xixani_Tamu-se</name>
+		<trkseg>
+			<trkpt lat="41.548429" lon="42.555866"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.548085" lon="42.557089"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.546433" lon="42.557840"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.545832" lon="42.556939"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.545081" lon="42.557454"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.543558" lon="42.556360"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.543729" lon="42.557454"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.543257" lon="42.558849"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.543665" lon="42.559364"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.543493" lon="42.559686"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.542184" lon="42.559900"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.542227" lon="42.560501"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.542592" lon="42.560737"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.542227" lon="42.561038"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.542270" lon="42.561617"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.542592" lon="42.561853"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.542142" lon="42.562111"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.542485" lon="42.562218"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.542077" lon="42.562668"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.542270" lon="42.564428"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.541369" lon="42.565587"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.541004" lon="42.565694"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.543772" lon="42.556596"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.545146" lon="42.557476"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.545661" lon="42.556896"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.546369" lon="42.557411"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.547399" lon="42.557368"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.548278" lon="42.556853"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.548536" lon="42.555781"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

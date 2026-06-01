@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.964Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/kvemo-mleta-lomisas-cminda-giorgis-saxelobis-eklesia-kvemo-mleta-lomisa-st-giorgi-church-232347870"/>
+	</metadata>
+	<trk>
+		<name>kvemo-mleta-lomisas-cminda-giorgis-saxelobis-eklesia-kvemo-mleta-lomisa-st-giorgi-church_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.429073" lon="44.509845"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.429330" lon="44.508536"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.428708" lon="44.507034"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.429309" lon="44.508257"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.428708" lon="44.507034"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.428086" lon="44.507571"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.427099" lon="44.507077"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.426584" lon="44.509158"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.424073" lon="44.508150"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423387" lon="44.507635"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.424867" lon="44.506433"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.424374" lon="44.505468"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.424052" lon="44.505704"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423966" lon="44.505146"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423537" lon="44.505554"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.422807" lon="44.504738"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.422078" lon="44.504953"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.421498" lon="44.504030"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.419589" lon="44.503365"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.418623" lon="44.502507"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.418409" lon="44.502421"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.418108" lon="44.503064"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.416864" lon="44.502399"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.415662" lon="44.500962"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.415190" lon="44.499245"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.414932" lon="44.499545"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.414460" lon="44.498730"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.414117" lon="44.500125"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.413752" lon="44.499867"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.413602" lon="44.500425"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.412830" lon="44.499567"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.412207" lon="44.499738"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.412121" lon="44.500146"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.411907" lon="44.499481"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

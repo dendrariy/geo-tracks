@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.979Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/sherhota-mountain-216438071"/>
+	</metadata>
+	<trk>
+		<name>sherhota-mountain_olfedos</name>
+		<trkseg>
+			<trkpt lat="42.539387" lon="44.361015"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.539945" lon="44.361744"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.541189" lon="44.361894"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544043" lon="44.367988"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.543936" lon="44.370842"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.541940" lon="44.373439"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.540224" lon="44.372666"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.537263" lon="44.373288"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.535610" lon="44.374790"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.534623" lon="44.376786"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.534559" lon="44.378202"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.532842" lon="44.378889"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.531276" lon="44.378052"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.530739" lon="44.378202"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.529280" lon="44.376335"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.528701" lon="44.376078"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.529345" lon="44.376228"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.529838" lon="44.377430"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.530761" lon="44.378245"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.532671" lon="44.378932"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.533829" lon="44.378567"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.534430" lon="44.378288"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.534881" lon="44.376250"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.536168" lon="44.374104"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.540910" lon="44.370327"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.542133" lon="44.369705"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.543271" lon="44.369962"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.543786" lon="44.369512"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544215" lon="44.368761"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544129" lon="44.367967"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.542370" lon="44.364448"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.542005" lon="44.363075"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.539387" lon="44.361015"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

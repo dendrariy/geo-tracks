@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.949Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/bzarnaris-chanchkeri-bzarnari-waterfall-220529269"/>
+	</metadata>
+	<trk>
+		<name>bzarnaris-chanchkeri-bzarnari-waterfall_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.547434" lon="42.657275"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.547305" lon="42.655966"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.547777" lon="42.655323"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.982Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/tkemlovana-kozipha-monastery-tqemlovana-kozipas-monasteri-40664930"/>
+	</metadata>
+	<trk>
+		<name>tkemlovana-kozipha-monastery-tqemlovana-kozipas-monasteri_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.856110" lon="43.719645"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.853707" lon="43.716984"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.851797" lon="43.712499"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.849201" lon="43.709495"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848750" lon="43.707886"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848729" lon="43.706019"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846776" lon="43.703294"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846454" lon="43.702071"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.844695" lon="43.701256"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.844351" lon="43.700547"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.843901" lon="43.700676"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.843429" lon="43.699882"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.843729" lon="43.699067"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.844673" lon="43.698445"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845746" lon="43.698852"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845789" lon="43.699453"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846089" lon="43.699410"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846540" lon="43.698015"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846476" lon="43.697157"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846261" lon="43.697329"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

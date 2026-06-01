@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.964Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/kvemo-mleta-88853460"/>
+	</metadata>
+	<trk>
+		<name>kvemo-mleta_Tamu-se</name>
+		<trkseg>
+			<trkpt lat="42.428193" lon="44.507420"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.427099" lon="44.507141"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.426369" lon="44.509115"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.425404" lon="44.508643"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.425103" lon="44.508128"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.424545" lon="44.508364"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423880" lon="44.508236"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423988" lon="44.508000"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423751" lon="44.508279"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423494" lon="44.507635"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423322" lon="44.507785"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423623" lon="44.507506"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423430" lon="44.507335"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.424202" lon="44.507270"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.424867" lon="44.506262"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.424331" lon="44.505468"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.424030" lon="44.505661"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.424460" lon="44.506154"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423773" lon="44.505682"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.424266" lon="44.505682"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423966" lon="44.505253"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.423515" lon="44.505682"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.422614" lon="44.504137"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.420361" lon="44.504373"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.420855" lon="44.504009"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.419417" lon="44.503451"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.419331" lon="44.503022"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.418409" lon="44.502421"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.418409" lon="44.502936"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.417679" lon="44.503172"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.416005" lon="44.501219"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.415233" lon="44.499352"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.414782" lon="44.499545"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.414503" lon="44.498837"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.413559" lon="44.500511"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.412808" lon="44.499610"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.412186" lon="44.499824"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.412100" lon="44.500189"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.411928" lon="44.499846"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

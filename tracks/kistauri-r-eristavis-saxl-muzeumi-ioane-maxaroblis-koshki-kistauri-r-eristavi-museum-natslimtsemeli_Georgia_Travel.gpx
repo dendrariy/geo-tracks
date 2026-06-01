@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.962Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/kistauri-r-eristavis-saxl-muzeumi-ioane-maxaroblis-koshki-kistauri-r-eristavi-museum-natslimtsemeli-118817414"/>
+	</metadata>
+	<trk>
+		<name>kistauri-r-eristavis-saxl-muzeumi-ioane-maxaroblis-koshki-kistauri-r-eristavi-museum-natslimtsemeli_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.993332" lon="45.285154"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.988654" lon="45.280519"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.986466" lon="45.279382"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.985843" lon="45.277858"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.985500" lon="45.278051"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.984921" lon="45.277493"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.984213" lon="45.277708"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.982217" lon="45.275991"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.981938" lon="45.275262"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.982217" lon="45.273760"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.981638" lon="45.273159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.981852" lon="45.272687"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.982281" lon="45.271979"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.984105" lon="45.271893"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

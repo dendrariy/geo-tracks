@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.952Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/cross-mountain-trail-163487357"/>
+	</metadata>
+	<trk>
+		<name>cross-mountain-trail_alxmamaev</name>
+		<trkseg>
+			<trkpt lat="41.845982" lon="43.375957"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846604" lon="43.376322"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847656" lon="43.375850"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.849480" lon="43.376472"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848385" lon="43.377567"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847742" lon="43.377395"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847162" lon="43.378124"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846154" lon="43.378060"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847205" lon="43.378017"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846840" lon="43.378146"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846969" lon="43.379197"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847162" lon="43.379047"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846991" lon="43.378918"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846840" lon="43.379455"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846991" lon="43.379712"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847870" lon="43.379626"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848321" lon="43.378532"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.851175" lon="43.377674"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850875" lon="43.378146"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850724" lon="43.379648"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850188" lon="43.380270"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850274" lon="43.380785"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850424" lon="43.380549"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850574" lon="43.380850"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850360" lon="43.383103"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850574" lon="43.383339"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850188" lon="43.384519"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850124" lon="43.384283"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.849587" lon="43.384626"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.849673" lon="43.384369"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848836" lon="43.384969"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846304" lon="43.384991"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845274" lon="43.385527"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.844823" lon="43.385205"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

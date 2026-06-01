@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.962Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/khtsisi-natlismtsemeli-monastery-xcisi-natlismcemlis-monasteri-40661697"/>
+	</metadata>
+	<trk>
+		<name>khtsisi-natlismtsemeli-monastery-xcisi-natlismcemlis-monasteri_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.980844" lon="43.677159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.980372" lon="43.677781"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.981402" lon="43.680012"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.981166" lon="43.684368"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.979792" lon="43.685463"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.978676" lon="43.685806"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.978204" lon="43.686621"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.976831" lon="43.687544"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.976123" lon="43.689604"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.975522" lon="43.689926"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.974084" lon="43.689282"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.972625" lon="43.686943"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.971080" lon="43.686042"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

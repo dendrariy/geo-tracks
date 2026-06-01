@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.953Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/dolina-r-nenskra-45801761"/>
+	</metadata>
+	<trk>
+		<name>dolina-r-nenskra_rokozarenko</name>
+		<trkseg>
+			<trkpt lat="43.170908" lon="42.278140"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.174277" lon="42.279942"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.175478" lon="42.281144"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.179512" lon="42.282624"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.180027" lon="42.284727"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.180757" lon="42.285543"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.181143" lon="42.289276"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.181186" lon="42.293718"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.181980" lon="42.297452"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.182688" lon="42.299254"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.183503" lon="42.304232"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.183718" lon="42.315648"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.184512" lon="42.320411"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.187130" lon="42.325862"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.187666" lon="42.326269"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.189726" lon="42.329509"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.189919" lon="42.331998"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.196957" lon="42.336977"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.198588" lon="42.339423"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.201356" lon="42.341740"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

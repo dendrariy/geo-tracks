@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.961Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/katskhi-katskhi-column-panoramic-view-kacxi-kacxis-svetis-panorama-105957092"/>
+	</metadata>
+	<trk>
+		<name>katskhi-katskhi-column-panoramic-view-kacxi-kacxis-svetis-panorama_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.269128" lon="43.212621"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.270265" lon="43.213759"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.273891" lon="43.215261"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.275093" lon="43.215196"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.275007" lon="43.217578"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.275350" lon="43.218930"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.275865" lon="43.219209"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.277110" lon="43.219252"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.277517" lon="43.218072"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.278183" lon="43.218715"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.279534" lon="43.218222"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.282152" lon="43.219230"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.282775" lon="43.219831"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.283375" lon="43.218994"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.284298" lon="43.219145"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.286401" lon="43.218479"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.287517" lon="43.216934"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

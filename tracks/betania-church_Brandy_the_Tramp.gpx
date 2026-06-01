@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.947Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/betania-church-24036819"/>
+	</metadata>
+	<trk>
+		<name>betania-church_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="41.685178" lon="44.607413"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.685908" lon="44.609323"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.686423" lon="44.609666"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.687560" lon="44.609623"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.687131" lon="44.611082"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.687389" lon="44.611576"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.688182" lon="44.610503"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.688483" lon="44.610567"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.688633" lon="44.609881"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.688826" lon="44.610052"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.688612" lon="44.609816"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.689878" lon="44.608808"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690242" lon="44.610031"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.689556" lon="44.612134"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690478" lon="44.611233"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690607" lon="44.611683"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690242" lon="44.612177"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690414" lon="44.612799"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690693" lon="44.611962"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690950" lon="44.612048"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690822" lon="44.611683"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690950" lon="44.611984"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690822" lon="44.611705"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.691401" lon="44.611361"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.691916" lon="44.611705"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692195" lon="44.612649"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692495" lon="44.612091"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693118" lon="44.612155"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693311" lon="44.612863"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692817" lon="44.611318"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692388" lon="44.610911"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692259" lon="44.611168"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692624" lon="44.611018"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693075" lon="44.611576"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693354" lon="44.612885"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693161" lon="44.613593"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693375" lon="44.613035"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693118" lon="44.612305"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692989" lon="44.612584"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693118" lon="44.612327"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.691744" lon="44.612606"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

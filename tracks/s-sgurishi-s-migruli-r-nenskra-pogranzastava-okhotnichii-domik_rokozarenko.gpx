@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.979Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/s-sgurishi-s-migruli-r-nenskra-pogranzastava-okhotnichii-domik-45801723"/>
+	</metadata>
+	<trk>
+		<name>s-sgurishi-s-migruli-r-nenskra-pogranzastava-okhotnichii-domik_rokozarenko</name>
+		<trkseg>
+			<trkpt lat="43.063126" lon="42.183833"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.064006" lon="42.185893"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.074713" lon="42.184649"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.076408" lon="42.183898"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.082094" lon="42.184155"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.088253" lon="42.185335"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.090913" lon="42.184820"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.095827" lon="42.185936"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.099518" lon="42.184906"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.101063" lon="42.183168"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.106814" lon="42.182911"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.108487" lon="42.183232"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111212" lon="42.182353"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112135" lon="42.183125"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.113058" lon="42.182825"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.114367" lon="42.184799"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.117478" lon="42.187760"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.123937" lon="42.192953"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.125868" lon="42.197437"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.128765" lon="42.207823"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.132112" lon="42.215998"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.133421" lon="42.221706"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.137348" lon="42.232714"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.139622" lon="42.241919"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.140974" lon="42.245674"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.143978" lon="42.250953"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.144858" lon="42.253828"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

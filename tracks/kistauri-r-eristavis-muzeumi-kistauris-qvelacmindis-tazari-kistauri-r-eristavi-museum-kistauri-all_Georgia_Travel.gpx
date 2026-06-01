@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.962Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/kistauri-r-eristavis-muzeumi-kistauris-qvelacmindis-tazari-kistauri-r-eristavi-museum-kistauri-all-118817566"/>
+	</metadata>
+	<trk>
+		<name>kistauri-r-eristavis-muzeumi-kistauris-qvelacmindis-tazari-kistauri-r-eristavi-museum-kistauri-all_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.993332" lon="45.285154"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.988654" lon="45.280519"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.986466" lon="45.279382"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.985843" lon="45.277858"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.985500" lon="45.278008"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.985715" lon="45.273223"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

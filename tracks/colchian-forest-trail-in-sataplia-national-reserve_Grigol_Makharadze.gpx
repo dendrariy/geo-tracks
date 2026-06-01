@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.952Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/colchian-forest-trail-in-sataplia-national-reserve-213234511"/>
+	</metadata>
+	<trk>
+		<name>colchian-forest-trail-in-sataplia-national-reserve_Grigol_Makharadze</name>
+		<trkseg>
+			<trkpt lat="42.312837" lon="42.676437"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.313802" lon="42.677252"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.313995" lon="42.677875"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.314167" lon="42.677188"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.314639" lon="42.677317"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.314747" lon="42.679119"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.316055" lon="42.679656"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.319296" lon="42.677918"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.320733" lon="42.678304"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.321227" lon="42.677682"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.321463" lon="42.678132"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.322321" lon="42.677231"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.321613" lon="42.678111"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.320132" lon="42.678175"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.319939" lon="42.677725"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.320669" lon="42.676652"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.320926" lon="42.675214"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.320197" lon="42.672253"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.321012" lon="42.671244"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.321463" lon="42.669828"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.320626" lon="42.670064"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.319918" lon="42.669656"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.319296" lon="42.670043"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.318716" lon="42.669571"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.316227" lon="42.672446"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.314146" lon="42.672296"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.312386" lon="42.672725"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.312365" lon="42.673347"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

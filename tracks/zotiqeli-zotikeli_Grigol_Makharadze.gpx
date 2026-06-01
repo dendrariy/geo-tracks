@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.988Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/zotiqeli-zotikeli-39809381"/>
+	</metadata>
+	<trk>
+		<name>zotiqeli-zotikeli_Grigol_Makharadze</name>
+		<trkseg>
+			<trkpt lat="41.811500" lon="42.354186"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.812937" lon="42.354744"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.813002" lon="42.354229"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.813624" lon="42.353885"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.814611" lon="42.354636"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.816628" lon="42.355237"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.819975" lon="42.354894"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.820448" lon="42.354272"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.820941" lon="42.352448"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.821671" lon="42.352233"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.821349" lon="42.352018"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.821563" lon="42.351654"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.822422" lon="42.352018"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.824653" lon="42.351461"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.825726" lon="42.350752"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.826284" lon="42.349014"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.827357" lon="42.347899"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.832271" lon="42.347341"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.832743" lon="42.346397"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.833837" lon="42.345774"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.834352" lon="42.344358"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.835532" lon="42.343028"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.836455" lon="42.341075"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.838107" lon="42.341504"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.840189" lon="42.340539"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.841412" lon="42.340839"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.841412" lon="42.341569"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.842077" lon="42.341418"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.842699" lon="42.340496"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.843214" lon="42.338543"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.843386" lon="42.339187"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.843987" lon="42.338758"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.844931" lon="42.339144"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845081" lon="42.339852"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.844523" lon="42.340689"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

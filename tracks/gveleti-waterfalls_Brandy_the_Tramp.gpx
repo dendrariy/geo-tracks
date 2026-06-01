@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.958Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/gveleti-waterfalls-25517919"/>
+	</metadata>
+	<trk>
+		<name>gveleti-waterfalls_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="42.707808" lon="44.625202"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707422" lon="44.624772"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707057" lon="44.625030"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.706692" lon="44.622991"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704890" lon="44.621039"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704954" lon="44.619923"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704203" lon="44.620352"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.703002" lon="44.619880"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.702723" lon="44.618657"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.702358" lon="44.619108"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.702637" lon="44.618378"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.702315" lon="44.618914"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.702487" lon="44.618700"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.702379" lon="44.619086"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.702551" lon="44.618871"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.703002" lon="44.619773"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704139" lon="44.620416"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705362" lon="44.619708"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704847" lon="44.617241"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705383" lon="44.615181"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705383" lon="44.614516"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705190" lon="44.614773"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705383" lon="44.613850"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705147" lon="44.614494"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705598" lon="44.613679"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704954" lon="44.614859"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705169" lon="44.614365"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705233" lon="44.614923"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704783" lon="44.617155"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704847" lon="44.618163"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705512" lon="44.619730"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705040" lon="44.620095"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705169" lon="44.620931"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.704804" lon="44.621125"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705298" lon="44.621318"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.705641" lon="44.622090"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.706821" lon="44.623227"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707164" lon="44.624429"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707014" lon="44.624665"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.707851" lon="44.625309"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

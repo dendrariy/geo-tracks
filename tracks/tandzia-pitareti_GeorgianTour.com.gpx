@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.980Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/tandzia-pitareti-9097187"/>
+	</metadata>
+	<trk>
+		<name>tandzia-pitareti_GeorgianTour.com</name>
+		<trkseg>
+			<trkpt lat="41.479335" lon="44.319687"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.479292" lon="44.320975"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.478970" lon="44.321318"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.476717" lon="44.320674"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.474485" lon="44.322198"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.473842" lon="44.323678"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.472790" lon="44.324258"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.472447" lon="44.324923"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.470344" lon="44.326725"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.469722" lon="44.326833"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.468392" lon="44.329515"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.466589" lon="44.331167"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.465795" lon="44.331167"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.465023" lon="44.331639"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.463885" lon="44.333914"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.463478" lon="44.335394"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.461804" lon="44.337776"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.462319" lon="44.340008"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.462941" lon="44.341231"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.462963" lon="44.343248"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

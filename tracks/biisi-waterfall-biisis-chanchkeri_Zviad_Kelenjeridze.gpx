@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.947Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/biisi-waterfall-biisis-chanchkeri-76744721"/>
+	</metadata>
+	<trk>
+		<name>biisi-waterfall-biisis-chanchkeri_Zviad_Kelenjeridze</name>
+		<trkseg>
+			<trkpt lat="41.864929" lon="43.973854"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.864908" lon="43.973553"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.863363" lon="43.973232"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.863556" lon="43.973575"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.862633" lon="43.974669"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.861839" lon="43.975249"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.860788" lon="43.975377"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.860359" lon="43.976343"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.858621" lon="43.975828"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.857269" lon="43.976429"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.856389" lon="43.976236"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.855574" lon="43.977416"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.854651" lon="43.977459"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.854265" lon="43.978682"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.853750" lon="43.979111"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.854072" lon="43.980205"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.853621" lon="43.982244"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.852355" lon="43.982823"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.852033" lon="43.982437"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.851239" lon="43.982480"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850939" lon="43.982973"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.851261" lon="43.983832"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.851089" lon="43.984046"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.851432" lon="43.984282"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

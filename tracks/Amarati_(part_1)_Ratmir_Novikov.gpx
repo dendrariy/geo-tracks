@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.944Z</time>
+		<link href="https://www.komoot.com/tour/2850713923"/>
+	</metadata>
+	<trk>
+		<name>Amarati_(part_1)_Ratmir_Novikov</name>
+		<trkseg>
+			<trkpt lat="41.772189" lon="43.080850"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.772790" lon="43.081494"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.774013" lon="43.081000"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.774657" lon="43.081300"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.774807" lon="43.081794"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.774442" lon="43.082953"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.775193" lon="43.084905"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.775279" lon="43.083918"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.775687" lon="43.083725"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.778412" lon="43.084283"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.778884" lon="43.085785"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.780279" lon="43.087652"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.781523" lon="43.088682"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.782146" lon="43.090656"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.783218" lon="43.091664"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

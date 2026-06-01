@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.944Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/alvani-cxrakaras-sasaxle-ioane-natlismcemlis-eklesia-alvani-tskhrakara-palace-ioane-natlismtsemeli-118817682"/>
+	</metadata>
+	<trk>
+		<name>alvani-cxrakaras-sasaxle-ioane-natlismcemlis-eklesia-alvani-tskhrakara-palace-ioane-natlismtsemeli_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.046096" lon="45.331974"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.048392" lon="45.331545"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.048907" lon="45.331030"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.050152" lon="45.331245"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.050538" lon="45.330172"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.050560" lon="45.328734"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.051225" lon="45.330172"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.051332" lon="45.331459"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.052534" lon="45.331395"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.960Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/juruqveti-lesa-158434321"/>
+	</metadata>
+	<trk>
+		<name>juruqveti-lesa_Tamu-se</name>
+		<trkseg>
+			<trkpt lat="42.129502" lon="41.908360"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.129653" lon="41.908918"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.130768" lon="41.908853"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.130854" lon="41.909819"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.131219" lon="41.910098"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.132464" lon="41.909905"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.132721" lon="41.910312"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.132442" lon="41.911063"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.133751" lon="41.911214"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.135854" lon="41.910699"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.135811" lon="41.908939"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.136519" lon="41.907244"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.136197" lon="41.907222"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.136111" lon="41.906622"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.135596" lon="41.906235"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.135575" lon="41.905613"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.135146" lon="41.905635"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.134888" lon="41.904369"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.135124" lon="41.905913"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.135918" lon="41.907158"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.136068" lon="41.908124"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.135103" lon="41.908360"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.087617" lon="41.961553"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

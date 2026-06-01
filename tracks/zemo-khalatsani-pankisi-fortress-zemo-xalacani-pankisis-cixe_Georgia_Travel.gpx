@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.988Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/zemo-khalatsani-pankisi-fortress-zemo-xalacani-pankisis-cixe-40361940"/>
+	</metadata>
+	<trk>
+		<name>zemo-khalatsani-pankisi-fortress-zemo-xalacani-pankisis-cixe_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.140467" lon="45.340042"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.140253" lon="45.341094"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.140617" lon="45.342295"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.139802" lon="45.342617"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.137399" lon="45.345021"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.136090" lon="45.345514"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.134094" lon="45.347853"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.134309" lon="45.348733"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.135060" lon="45.349720"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.138729" lon="45.352917"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.139502" lon="45.354204"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.140188" lon="45.354269"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.140424" lon="45.356758"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.140188" lon="45.354269"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.139502" lon="45.354204"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.138729" lon="45.352917"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.135060" lon="45.349720"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.134309" lon="45.348733"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.134094" lon="45.347853"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.136090" lon="45.345514"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.137399" lon="45.345021"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.139802" lon="45.342617"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.140617" lon="45.342295"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.140253" lon="45.341094"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.140467" lon="45.340042"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

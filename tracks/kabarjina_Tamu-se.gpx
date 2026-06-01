@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.960Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/kabarjina-175518310"/>
+	</metadata>
+	<trk>
+		<name>kabarjina_Tamu-se</name>
+		<trkseg>
+			<trkpt lat="42.580822" lon="44.587221"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.580328" lon="44.587372"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.580414" lon="44.587629"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.579706" lon="44.587329"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.577024" lon="44.587693"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.575822" lon="44.588573"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.574921" lon="44.589882"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.573590" lon="44.590376"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.571037" lon="44.590655"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.568956" lon="44.589925"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.568033" lon="44.589367"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.567926" lon="44.588809"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.565651" lon="44.587372"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.563377" lon="44.585033"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.562411" lon="44.582286"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.562626" lon="44.579797"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.562261" lon="44.577093"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.560544" lon="44.574969"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.559943" lon="44.574819"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.559815" lon="44.574046"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.557905" lon="44.573961"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.557454" lon="44.574325"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.556639" lon="44.573145"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.557283" lon="44.572480"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.557047" lon="44.572308"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.557326" lon="44.571836"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.557240" lon="44.572158"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.557583" lon="44.572029"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.557047" lon="44.571557"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.557218" lon="44.520488"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.961Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/khani-khani-waterfall-xani-xanis-chanchkeri-105956877"/>
+	</metadata>
+	<trk>
+		<name>khani-khani-waterfall-xani-xanis-chanchkeri_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.952219" lon="42.953992"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.951747" lon="42.953606"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.951382" lon="42.954099"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.950781" lon="42.953799"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.950095" lon="42.955516"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.949258" lon="42.953713"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.947949" lon="42.952984"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.947305" lon="42.953434"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.946211" lon="42.952683"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.944945" lon="42.953906"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.943743" lon="42.953520"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.942563" lon="42.953777"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.940975" lon="42.955194"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.939838" lon="42.955580"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.938701" lon="42.953777"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.937735" lon="42.953220"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.936147" lon="42.954207"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.934924" lon="42.953842"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.933766" lon="42.956095"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.932714" lon="42.956717"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.932135" lon="42.957575"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.932349" lon="42.958541"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.931684" lon="42.960944"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.931920" lon="42.962382"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.930268" lon="42.964657"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.929882" lon="42.964571"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

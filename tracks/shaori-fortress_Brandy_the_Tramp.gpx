@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.978Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/shaori-fortress-37521895"/>
+	</metadata>
+	<trk>
+		<name>shaori-fortress_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="41.470108" lon="43.744471"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.473091" lon="43.742240"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.473498" lon="43.742132"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.475816" lon="43.743270"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.476674" lon="43.742712"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.477962" lon="43.745222"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.479721" lon="43.746317"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.483927" lon="43.747304"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.484227" lon="43.747990"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.483820" lon="43.748913"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.484099" lon="43.748248"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.485472" lon="43.747175"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.485064" lon="43.745780"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.485279" lon="43.745694"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.485000" lon="43.745737"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.485279" lon="43.746982"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.484764" lon="43.747046"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.484935" lon="43.747711"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.483862" lon="43.747969"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.482596" lon="43.747175"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.481052" lon="43.746810"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.478412" lon="43.743098"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.478112" lon="43.741660"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.476588" lon="43.740180"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.474292" lon="43.740309"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.473413" lon="43.739321"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.472704" lon="43.739429"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.471481" lon="43.740866"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.470795" lon="43.740738"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.470044" lon="43.744450"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

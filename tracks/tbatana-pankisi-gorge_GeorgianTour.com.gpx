@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.981Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/tbatana-pankisi-gorge-9061438"/>
+	</metadata>
+	<trk>
+		<name>tbatana-pankisi-gorge_GeorgianTour.com</name>
+		<trkseg>
+			<trkpt lat="42.217243" lon="45.314873"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.219882" lon="45.307255"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.220204" lon="45.303779"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.221813" lon="45.303865"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.224066" lon="45.304616"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.225418" lon="45.304509"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.226749" lon="45.301612"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.228809" lon="45.301032"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.231898" lon="45.295389"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.232735" lon="45.293157"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.236319" lon="45.287879"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.239087" lon="45.281892"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.241726" lon="45.277922"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.242499" lon="45.275820"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.245245" lon="45.273009"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.245867" lon="45.269404"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.248378" lon="45.268395"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.249258" lon="45.267644"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.249966" lon="45.267644"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.251640" lon="45.266464"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.254000" lon="45.265670"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.254837" lon="45.262344"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.257347" lon="45.261700"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.259793" lon="45.260156"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.263849" lon="45.259126"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.269642" lon="45.259962"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.276037" lon="45.251980"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.286143" lon="45.243526"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.286723" lon="45.242131"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

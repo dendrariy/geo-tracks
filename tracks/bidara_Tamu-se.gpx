@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.947Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/bidara-175235950"/>
+	</metadata>
+	<trk>
+		<name>bidara_Tamu-se</name>
+		<trkseg>
+			<trkpt lat="42.495420" lon="44.494052"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.496193" lon="44.493559"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.497308" lon="44.493752"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.497630" lon="44.492700"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.498403" lon="44.491606"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.500119" lon="44.490104"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.501965" lon="44.489224"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.504776" lon="44.489095"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.507308" lon="44.490083"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.508660" lon="44.487615"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.509990" lon="44.486714"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.510011" lon="44.485469"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.513101" lon="44.487014"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.509754" lon="44.485319"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.506471" lon="44.484868"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.502716" lon="44.482465"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.501536" lon="44.483516"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.501021" lon="44.484804"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.499540" lon="44.486585"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.498038" lon="44.487250"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.496600" lon="44.488795"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.495592" lon="44.488688"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.495291" lon="44.489868"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.494476" lon="44.491027"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.494497" lon="44.492464"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.493596" lon="44.494159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.491322" lon="44.495318"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

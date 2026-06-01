@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.959Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/hike-to-mosque-ruins-166374194"/>
+	</metadata>
+	<trk>
+		<name>hike-to-mosque-ruins_alxmamaev</name>
+		<trkseg>
+			<trkpt lat="41.699791" lon="43.080313"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.699834" lon="43.081343"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.698997" lon="43.084455"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.699834" lon="43.085571"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.699791" lon="43.086772"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.699920" lon="43.086364"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.700242" lon="43.086558"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.700864" lon="43.088231"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.700778" lon="43.087866"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.702151" lon="43.088081"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.703289" lon="43.089347"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.703761" lon="43.089369"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.703074" lon="43.090291"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.703289" lon="43.090892"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.702645" lon="43.090742"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.702538" lon="43.090377"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.702495" lon="43.090785"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.702130" lon="43.090828"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.700649" lon="43.087588"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.700349" lon="43.087459"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.700327" lon="43.086729"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.699855" lon="43.086236"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.699727" lon="43.085377"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.698911" lon="43.084326"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

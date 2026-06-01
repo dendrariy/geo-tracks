@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.961Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/khaldeschala-river-camp-216438325"/>
+	</metadata>
+	<trk>
+		<name>khaldeschala-river-camp_olfedos</name>
+		<trkseg>
+			<trkpt lat="42.973733" lon="43.001306"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.973712" lon="43.000148"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.973132" lon="42.998753"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.973926" lon="42.998259"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.977252" lon="43.002443"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.977703" lon="43.003860"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.979720" lon="43.007164"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.980771" lon="43.008151"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.982102" lon="43.010318"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.983239" lon="43.011499"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.985320" lon="43.012722"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.985406" lon="43.013666"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.985599" lon="43.013365"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.989161" lon="43.016219"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.989590" lon="43.017314"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.989354" lon="43.017485"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.989311" lon="43.018687"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.988239" lon="43.019180"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.987895" lon="43.020404"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.986415" lon="43.020554"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.986200" lon="43.021112"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.986565" lon="43.021391"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.985964" lon="43.021627"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.985470" lon="43.022828"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.986179" lon="43.023622"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.986136" lon="43.024008"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.985857" lon="43.023966"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.987530" lon="43.026090"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.989419" lon="43.026905"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.990105" lon="43.027806"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.990728" lon="43.028042"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.990019" lon="43.027442"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.989161" lon="43.027334"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.988432" lon="43.026262"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.987530" lon="43.026047"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.985878" lon="43.023944"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

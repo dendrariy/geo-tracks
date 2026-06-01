@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.978Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/samshvilde-2651910"/>
+	</metadata>
+	<trk>
+		<name>samshvilde_Grigol_Makharadze</name>
+		<trkseg>
+			<trkpt lat="41.514804" lon="44.489911"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.512809" lon="44.486542"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.512101" lon="44.484310"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.512122" lon="44.485641"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.510964" lon="44.486563"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.510427" lon="44.488001"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.510470" lon="44.489374"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.510062" lon="44.490104"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.509504" lon="44.490211"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.509376" lon="44.491220"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.508195" lon="44.494138"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.507852" lon="44.495340"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.507852" lon="44.496820"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.506801" lon="44.498730"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.506715" lon="44.501241"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

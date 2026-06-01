@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.949Z</time>
+		<link href="https://www.relive.com/view/vr63eRmERdv"/>
+	</metadata>
+	<trk>
+		<name>Camp_2_[3700]-3900_Ushba_glacier_lavrenti</name>
+		<trkseg>
+			<trkpt lat="43.138614" lon="42.661159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.139515" lon="42.663670"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.139215" lon="42.666030"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.138721" lon="42.666266"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.139365" lon="42.665816"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.139193" lon="42.665730"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.139494" lon="42.663648"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.138464" lon="42.660966"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

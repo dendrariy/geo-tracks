@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.987Z</time>
+		<link href="https://www.komoot.com/tour/1357824008"/>
+	</metadata>
+	<trk>
+		<name>woman_swimming_Green_Lake_Sabanella_2450_m_(Goderdzi)_10_km_5h_AdjaraHiking</name>
+		<trkseg>
+			<trkpt lat="41.675093" lon="42.498145"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.674020" lon="42.497223"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673312" lon="42.497223"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673784" lon="42.496751"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675007" lon="42.497244"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676767" lon="42.499068"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.677218" lon="42.498295"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678033" lon="42.498274"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.679642" lon="42.503510"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.685221" lon="42.503574"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.686509" lon="42.506149"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.686187" lon="42.508917"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.687281" lon="42.511342"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.684170" lon="42.513209"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.683290" lon="42.515054"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.680222" lon="42.514517"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678784" lon="42.515891"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.676982" lon="42.516556"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.677153" lon="42.522071"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673420" lon="42.523616"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.669858" lon="42.523658"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.667476" lon="42.518230"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.666274" lon="42.511857"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.664837" lon="42.509754"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.665566" lon="42.507157"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.667261" lon="42.508123"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.665566" lon="42.507157"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.665244" lon="42.503638"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.665609" lon="42.502630"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.666296" lon="42.503123"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.668313" lon="42.502909"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.668635" lon="42.501536"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.669772" lon="42.499497"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.670952" lon="42.498703"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.670866" lon="42.496407"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.671939" lon="42.497115"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.674020" lon="42.497223"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.675093" lon="42.498145"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

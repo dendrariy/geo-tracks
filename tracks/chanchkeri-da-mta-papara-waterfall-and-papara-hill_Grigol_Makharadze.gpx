@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.950Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/chanchkeri-da-mta-papara-waterfall-and-papara-hill-142826148"/>
+	</metadata>
+	<trk>
+		<name>chanchkeri-da-mta-papara-waterfall-and-papara-hill_Grigol_Makharadze</name>
+		<trkseg>
+			<trkpt lat="41.850875" lon="42.325475"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850295" lon="42.328093"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.849887" lon="42.328887"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848900" lon="42.329574"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847227" lon="42.329853"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846433" lon="42.326999"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846604" lon="42.324424"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846068" lon="42.321828"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846948" lon="42.318823"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847398" lon="42.318759"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848471" lon="42.317193"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848471" lon="42.311936"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848729" lon="42.310970"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848149" lon="42.310090"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847098" lon="42.309640"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847077" lon="42.309318"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848621" lon="42.311270"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848600" lon="42.315433"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848064" lon="42.316656"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847141" lon="42.316313"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846304" lon="42.313416"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845982" lon="42.312751"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845338" lon="42.312365"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.844416" lon="42.313159"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.844094" lon="42.314232"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.841841" lon="42.315111"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.950Z</time>
+		<link href="https://www.relive.com/view/v26Mz4AM13q"/>
+	</metadata>
+	<trk>
+		<name>Chapel_Bethlemi_[3910]_lavrenti</name>
+		<trkseg>
+			<trkpt lat="42.679870" lon="44.533878"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.681930" lon="44.535659"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.682231" lon="44.535380"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.683776" lon="44.532140"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.683561" lon="44.529929"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.683797" lon="44.532075"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.682917" lon="44.534200"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.682188" lon="44.534114"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.681694" lon="44.534521"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.679742" lon="44.533663"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

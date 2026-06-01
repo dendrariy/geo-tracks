@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.957Z</time>
+		<link href="https://www.komoot.com/tour/1743160056"/>
+	</metadata>
+	<trk>
+		<name>Gomarduli_5_km_2h_AdjaraHiking</name>
+		<trkseg>
+			<trkpt lat="41.655417" lon="42.200120"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.653271" lon="42.197223"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.654279" lon="42.197030"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.655824" lon="42.197974"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.656640" lon="42.198961"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.657326" lon="42.198789"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.657884" lon="42.200098"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.659987" lon="42.201707"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.662562" lon="42.202652"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.664322" lon="42.202823"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.664493" lon="42.203510"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.665588" lon="42.204368"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.666060" lon="42.204218"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.666167" lon="42.203360"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.667111" lon="42.203145"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.668742" lon="42.203961"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.669257" lon="42.204905"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.672046" lon="42.206128"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673505" lon="42.205892"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.673591" lon="42.204583"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.672540" lon="42.202866"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.672282" lon="42.200484"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.672754" lon="42.199841"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.672497" lon="42.199519"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.672132" lon="42.199776"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.672089" lon="42.199347"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.671081" lon="42.198897"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.669815" lon="42.198682"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.669343" lon="42.199733"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.667926" lon="42.197952"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.663849" lon="42.198661"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.663871" lon="42.198103"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.661854" lon="42.198532"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.661210" lon="42.199454"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.659472" lon="42.199004"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.659086" lon="42.198317"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.657090" lon="42.197974"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.657090" lon="42.198746"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.656146" lon="42.199218"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.655417" lon="42.200120"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

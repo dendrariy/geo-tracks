@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.973Z</time>
+		<link href="https://www.relive.com/view/vMv8pk5R8Pv"/>
+	</metadata>
+	<trk>
+		<name>New_shelter-Kvabiskhevi_lavrenti</name>
+		<trkseg>
+			<trkpt lat="41.804097" lon="43.239551"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.804247" lon="43.239980"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.802788" lon="43.240431"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.800749" lon="43.239401"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.799419" lon="43.239722"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.796951" lon="43.237963"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.794419" lon="43.237148"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.792595" lon="43.237276"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.791566" lon="43.236568"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.790664" lon="43.235238"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.789999" lon="43.235173"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.789141" lon="43.236783"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.787875" lon="43.237019"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.786802" lon="43.237705"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.783905" lon="43.240130"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.782768" lon="43.241632"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.781781" lon="43.242362"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.780729" lon="43.242598"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.779850" lon="43.243692"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.779313" lon="43.243692"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

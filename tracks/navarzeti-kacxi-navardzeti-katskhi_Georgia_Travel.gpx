@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.973Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/navarzeti-kacxi-navardzeti-katskhi-239947560"/>
+	</metadata>
+	<trk>
+		<name>navarzeti-kacxi-navardzeti-katskhi_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.282839" lon="43.219853"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.283118" lon="43.220411"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.283225" lon="43.224724"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.281509" lon="43.226161"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.280886" lon="43.226161"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.281337" lon="43.228929"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.279964" lon="43.232405"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.279191" lon="43.233071"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.279277" lon="43.234058"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

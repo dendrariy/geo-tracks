@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.975Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/pirgebuli-monastery-hike-12593858"/>
+	</metadata>
+	<trk>
+		<name>pirgebuli-monastery-hike_GeorgianTour.com</name>
+		<trkseg>
+			<trkpt lat="41.509333" lon="44.488302"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.508753" lon="44.488645"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.507831" lon="44.488001"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.506951" lon="44.486521"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.505599" lon="44.471650"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.503346" lon="44.467981"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.502402" lon="44.465513"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.497789" lon="44.458347"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.495385" lon="44.456630"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.494269" lon="44.455300"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.493239" lon="44.455171"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.492167" lon="44.455900"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.493154" lon="44.457381"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.493819" lon="44.459698"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.494248" lon="44.460256"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.496909" lon="44.461887"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.497660" lon="44.462703"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.498883" lon="44.465170"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.499806" lon="44.465320"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

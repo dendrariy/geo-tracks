@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.973Z</time>
+		<link href="https://www.komoot.com/tour/2619937617"/>
+	</metadata>
+	<trk>
+		<name>near_Djandjghnari_settlement_AdjaraHiking</name>
+		<trkseg>
+			<trkpt lat="41.785622" lon="42.397702"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784635" lon="42.398753"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.783626" lon="42.398024"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.782897" lon="42.399182"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.783605" lon="42.398732"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.783927" lon="42.399075"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784034" lon="42.400298"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784377" lon="42.400792"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784334" lon="42.404053"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.783776" lon="42.405899"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784291" lon="42.405770"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784570" lon="42.407422"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784012" lon="42.407937"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784012" lon="42.408710"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.781781" lon="42.410984"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.780815" lon="42.413366"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.780837" lon="42.414847"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.781588" lon="42.415340"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.782081" lon="42.414954"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.781438" lon="42.414782"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.780751" lon="42.413795"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.780794" lon="42.413366"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.781781" lon="42.410984"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.782768" lon="42.410169"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.782704" lon="42.409117"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.783433" lon="42.407980"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.783862" lon="42.407851"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784377" lon="42.407787"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784141" lon="42.408731"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784463" lon="42.408667"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.784978" lon="42.405598"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.786029" lon="42.404676"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.786716" lon="42.405791"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.787446" lon="42.404032"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.786180" lon="42.400921"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.786373" lon="42.400298"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.785987" lon="42.399826"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.786115" lon="42.399333"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.785750" lon="42.399032"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.785622" lon="42.397702"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

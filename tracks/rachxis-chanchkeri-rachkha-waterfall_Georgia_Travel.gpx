@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.976Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/rachxis-chanchkeri-rachkha-waterfall-220431872"/>
+	</metadata>
+	<trk>
+		<name>rachxis-chanchkeri-rachkha-waterfall_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.542477" lon="42.650924"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.542498" lon="42.650430"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.543142" lon="42.651117"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.542906" lon="42.647684"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.543421" lon="42.648585"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.543121" lon="42.646825"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.543678" lon="42.644615"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

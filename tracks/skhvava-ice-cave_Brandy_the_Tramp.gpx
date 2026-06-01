@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.979Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/skhvava-ice-cave-24033110"/>
+	</metadata>
+	<trk>
+		<name>skhvava-ice-cave_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="42.478082" lon="43.250988"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.480872" lon="43.250108"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.482696" lon="43.250902"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.483125" lon="43.250430"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.484627" lon="43.250323"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.484884" lon="43.249872"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.487095" lon="43.248906"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.487910" lon="43.249014"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.488060" lon="43.248027"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.489648" lon="43.246825"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.490442" lon="43.243821"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.490850" lon="43.243370"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.492824" lon="43.242791"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.493510" lon="43.240516"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.493146" lon="43.238650"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.495227" lon="43.236418"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

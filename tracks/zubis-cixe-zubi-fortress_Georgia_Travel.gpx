@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.988Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/zubis-cixe-zubi-fortress-220529879"/>
+	</metadata>
+	<trk>
+		<name>zubis-cixe-zubi-fortress_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.567175" lon="42.683840"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.566059" lon="42.684398"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.565308" lon="42.685707"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.564728" lon="42.685728"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.564728" lon="42.686694"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.565007" lon="42.686737"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.564964" lon="42.686265"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

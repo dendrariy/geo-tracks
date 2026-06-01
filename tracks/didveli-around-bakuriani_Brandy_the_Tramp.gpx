@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.953Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/didveli-around-bakuriani-27829710"/>
+	</metadata>
+	<trk>
+		<name>didveli-around-bakuriani_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="41.697838" lon="43.556545"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.697173" lon="43.554936"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.696594" lon="43.551953"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.696272" lon="43.547490"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.695650" lon="43.545709"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.694899" lon="43.544679"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.694341" lon="43.542190"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693997" lon="43.537812"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692603" lon="43.535388"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690607" lon="43.528993"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.687925" lon="43.525925"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.685586" lon="43.524273"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.684878" lon="43.523221"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.684492" lon="43.521869"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.683719" lon="43.521054"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.682603" lon="43.523200"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681745" lon="43.526869"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681788" lon="43.529916"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.680758" lon="43.533049"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681295" lon="43.534186"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681037" lon="43.534980"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681252" lon="43.535924"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.680715" lon="43.536890"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.680479" lon="43.541224"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.679320" lon="43.545494"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678891" lon="43.548434"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.679256" lon="43.554292"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.679835" lon="43.556502"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.679235" lon="43.557060"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.679192" lon="43.557875"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.678269" lon="43.558583"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.679170" lon="43.559377"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.679857" lon="43.565643"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.681552" lon="43.569076"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.682625" lon="43.570063"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

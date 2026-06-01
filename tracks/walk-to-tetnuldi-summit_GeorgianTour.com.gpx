@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.987Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/walk-to-tetnuldi-summit-13127640"/>
+	</metadata>
+	<trk>
+		<name>walk-to-tetnuldi-summit_GeorgianTour.com</name>
+		<trkseg>
+			<trkpt lat="43.025446" lon="42.900627"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.025060" lon="42.901657"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.022227" lon="42.905197"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.021863" lon="42.906785"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.022335" lon="42.908116"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.022528" lon="42.910905"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.022077" lon="42.913330"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.021648" lon="42.914038"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.021391" lon="42.916205"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.020489" lon="42.916999"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.018859" lon="42.917535"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.017743" lon="42.919080"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.016691" lon="42.922900"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.016048" lon="42.923887"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.016434" lon="42.927234"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.014910" lon="42.930367"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.015104" lon="42.931333"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.014009" lon="42.932534"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.014696" lon="42.933865"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.014331" lon="42.934981"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.014760" lon="42.936118"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.012786" lon="42.938543"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

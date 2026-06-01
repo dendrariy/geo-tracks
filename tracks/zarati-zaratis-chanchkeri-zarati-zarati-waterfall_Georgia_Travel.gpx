@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.987Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/zarati-zaratis-chanchkeri-zarati-zarati-waterfall-139475995"/>
+	</metadata>
+	<trk>
+		<name>zarati-zaratis-chanchkeri-zarati-zarati-waterfall_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.357211" lon="42.711477"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.357147" lon="42.712615"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.356160" lon="42.713559"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.356975" lon="42.714052"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.357748" lon="42.716198"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.357404" lon="42.719031"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.356653" lon="42.720940"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.357512" lon="42.722228"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.357576" lon="42.723150"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.358177" lon="42.724610"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.358542" lon="42.724438"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.359014" lon="42.724931"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.963Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/kojori-asureti-54830628"/>
+	</metadata>
+	<trk>
+		<name>kojori-asureti_Shalva91</name>
+		<trkseg>
+			<trkpt lat="41.651361" lon="44.701097"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.649108" lon="44.700883"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.647627" lon="44.702170"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.646962" lon="44.701999"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.645975" lon="44.703179"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.645331" lon="44.703415"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.644280" lon="44.701054"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.643787" lon="44.697063"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.643143" lon="44.695690"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.642971" lon="44.694166"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.640954" lon="44.691849"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.640568" lon="44.691956"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.640740" lon="44.692214"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.640117" lon="44.692128"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.642413" lon="44.693008"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.643100" lon="44.694488"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.643186" lon="44.695711"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.640825" lon="44.696033"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.639989" lon="44.697020"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.639817" lon="44.696784"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.640310" lon="44.695711"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.639559" lon="44.695390"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.638658" lon="44.696141"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.637049" lon="44.696098"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.636169" lon="44.695604"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.629946" lon="44.698973"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.626771" lon="44.701827"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.627243" lon="44.702750"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.628337" lon="44.700840"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.635139" lon="44.694832"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.636770" lon="44.675842"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.637049" lon="44.675970"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.639152" lon="44.670112"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.638937" lon="44.670005"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.639259" lon="44.668632"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.639023" lon="44.668997"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.623938" lon="44.664727"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.617844" lon="44.660220"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.606944" lon="44.662216"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.605613" lon="44.663868"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

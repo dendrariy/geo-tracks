@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.976Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/radialka-ot-perevala-177758323"/>
+	</metadata>
+	<trk>
+		<name>radialka-ot-perevala_Travel_to_challenge</name>
+		<trkseg>
+			<trkpt lat="42.594040" lon="44.903465"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.593224" lon="44.900654"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.592988" lon="44.900804"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.592945" lon="44.895718"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.592666" lon="44.894173"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.590435" lon="44.889603"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.589533" lon="44.888552"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

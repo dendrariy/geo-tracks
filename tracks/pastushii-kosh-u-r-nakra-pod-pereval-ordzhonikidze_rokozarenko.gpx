@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.975Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/pastushii-kosh-u-r-nakra-pod-pereval-ordzhonikidze-45801792"/>
+	</metadata>
+	<trk>
+		<name>pastushii-kosh-u-r-nakra-pod-pereval-ordzhonikidze_rokozarenko</name>
+		<trkseg>
+			<trkpt lat="43.161273" lon="42.404568"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.164556" lon="42.406564"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.163998" lon="42.409740"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.164427" lon="42.410555"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.164084" lon="42.411456"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.164449" lon="42.411864"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.164149" lon="42.414396"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.161745" lon="42.420168"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.160801" lon="42.421541"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.158376" lon="42.429073"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.156874" lon="42.437549"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.156874" lon="42.441497"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

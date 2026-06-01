@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.985Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/turtle-lake-mtatsminda-park-opt-2-48268947"/>
+	</metadata>
+	<trk>
+		<name>turtle-lake-mtatsminda-park-opt-2_Zviad_Kelenjeridze</name>
+		<trkseg>
+			<trkpt lat="41.703396" lon="44.769118"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.702795" lon="44.768088"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.702838" lon="44.766672"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.699276" lon="44.757767"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.698203" lon="44.753690"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.697967" lon="44.753690"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.697731" lon="44.751780"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.697559" lon="44.751973"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.696251" lon="44.751008"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.696422" lon="44.750879"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.696122" lon="44.750042"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.696487" lon="44.750901"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.697602" lon="44.751780"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.696723" lon="44.747553"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.696594" lon="44.742596"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.695757" lon="44.741245"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.694191" lon="44.740579"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693676" lon="44.740880"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693354" lon="44.741910"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693719" lon="44.742682"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693676" lon="44.743390"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.694448" lon="44.744184"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.695306" lon="44.755063"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.694512" lon="44.759634"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.694212" lon="44.760385"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693504" lon="44.760664"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693010" lon="44.762359"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692581" lon="44.762852"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692667" lon="44.766221"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693955" lon="44.770749"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692774" lon="44.772916"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.691637" lon="44.773667"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690822" lon="44.774804"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690049" lon="44.775062"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690393" lon="44.777251"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.691873" lon="44.777444"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692259" lon="44.778045"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693525" lon="44.785748"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.693847" lon="44.786349"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

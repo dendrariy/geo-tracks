@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.968Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/matani-matanis-cixe-galavani-matanis-cxrakaras-monasteri-matani-matani-fortress-matani-tskhrakara-118818298"/>
+	</metadata>
+	<trk>
+		<name>matani-matanis-cixe-galavani-matanis-cxrakaras-monasteri-matani-matani-fortress-matani-tskhrakara_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.079313" lon="45.192542"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.078970" lon="45.191663"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.079227" lon="45.190010"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.078776" lon="45.188530"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.079077" lon="45.187307"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.082231" lon="45.182092"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.084549" lon="45.179775"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.086115" lon="45.179196"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.086351" lon="45.177908"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.085836" lon="45.177157"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.086222" lon="45.175612"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.088626" lon="45.169304"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.089312" lon="45.165913"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.090085" lon="45.164497"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.089999" lon="45.164218"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.089548" lon="45.164562"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.089377" lon="45.163296"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.088776" lon="45.162459"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.088604" lon="45.158897"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.087982" lon="45.157588"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.089012" lon="45.157287"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.089119" lon="45.156665"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.088475" lon="45.156687"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.087917" lon="45.156172"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.088068" lon="45.155936"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.087467" lon="45.154841"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.088368" lon="45.154455"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.087982" lon="45.152867"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.088132" lon="45.152009"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.088497" lon="45.152910"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

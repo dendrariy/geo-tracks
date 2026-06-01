@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.976Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/sadmeli-village-35892501"/>
+	</metadata>
+	<trk>
+		<name>sadmeli-village_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="42.543314" lon="43.107586"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544279" lon="43.111963"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544730" lon="43.112199"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.545202" lon="43.110869"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544472" lon="43.108874"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544472" lon="43.108037"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.545931" lon="43.106814"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.546768" lon="43.106878"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.546361" lon="43.107715"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.546919" lon="43.112972"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.546532" lon="43.115332"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.545674" lon="43.116620"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.545803" lon="43.118036"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544902" lon="43.117864"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544344" lon="43.118379"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544301" lon="43.118851"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544859" lon="43.117864"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.545824" lon="43.118057"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.545331" lon="43.116169"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.545653" lon="43.116555"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.546361" lon="43.115311"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.546790" lon="43.113358"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.546296" lon="43.107565"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.546661" lon="43.106964"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.546039" lon="43.106814"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544537" lon="43.108123"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.545266" lon="43.111041"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.544558" lon="43.112242"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.543271" lon="43.107436"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.543507" lon="43.106921"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.543464" lon="43.107457"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.543163" lon="43.107436"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.543357" lon="43.107178"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

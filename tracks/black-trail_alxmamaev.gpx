@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.948Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/black-trail-181361696"/>
+	</metadata>
+	<trk>
+		<name>black-trail_alxmamaev</name>
+		<trkseg>
+			<trkpt lat="41.825361" lon="43.305533"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.824846" lon="43.305469"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.825061" lon="43.305404"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.825447" lon="43.307486"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.825125" lon="43.309589"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.825426" lon="43.311305"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.825276" lon="43.313945"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.824460" lon="43.315683"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.824589" lon="43.316670"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.824417" lon="43.318279"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.824031" lon="43.318858"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.824160" lon="43.319524"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.823816" lon="43.320017"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.823816" lon="43.319652"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.823387" lon="43.320940"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.823709" lon="43.327012"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.824310" lon="43.328235"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.824889" lon="43.328665"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.825469" lon="43.330381"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.827786" lon="43.330403"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.828730" lon="43.331239"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.829739" lon="43.333192"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.829159" lon="43.341775"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.829395" lon="43.343728"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.829867" lon="43.343706"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.829739" lon="43.343127"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.829889" lon="43.343384"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.830404" lon="43.342827"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.830533" lon="43.342033"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.831820" lon="43.341968"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.831648" lon="43.341582"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.832335" lon="43.341282"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.832979" lon="43.341925"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.833451" lon="43.341797"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.833515" lon="43.342483"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

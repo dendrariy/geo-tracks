@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.952Z</time>
+		<link href="https://www.relive.com/view/vWqBPQ4jzQO"/>
+	</metadata>
+	<trk>
+		<name>Dartlo-Kvavlo_(Tusheti)_lavrenti</name>
+		<trkseg>
+			<trkpt lat="42.443836" lon="45.586999"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.443857" lon="45.587685"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.444136" lon="45.587728"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.444265" lon="45.588329"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.444437" lon="45.587943"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.444544" lon="45.588243"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.443621" lon="45.587492"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.443750" lon="45.586248"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.443257" lon="45.586248"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.443257" lon="45.585497"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.443020" lon="45.585904"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.442913" lon="45.584660"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.442420" lon="45.584746"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.442999" lon="45.583480"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.442527" lon="45.583051"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.440467" lon="45.585111"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.439780" lon="45.584402"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.439115" lon="45.583051"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.439544" lon="45.580304"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.439330" lon="45.580240"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

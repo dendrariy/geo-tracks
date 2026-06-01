@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.972Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/namarnevis-tazari-namarnevi-church-220530295"/>
+	</metadata>
+	<trk>
+		<name>namarnevis-tazari-namarnevi-church_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.600713" lon="42.671116"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.597323" lon="42.671952"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.597580" lon="42.671309"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.598267" lon="42.671030"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

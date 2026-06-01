@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.949Z</time>
+		<link href="https://www.komoot.com/tour/2293312424"/>
+	</metadata>
+	<trk>
+		<name>by_Kapnistavi_trail_AdjaraHiking</name>
+		<trkseg>
+			<trkpt lat="41.555853" lon="41.745882"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.554587" lon="41.746247"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.555638" lon="41.746955"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.555274" lon="41.747041"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.555746" lon="41.747792"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.555338" lon="41.747985"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.555767" lon="41.748521"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.555381" lon="41.748650"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.556754" lon="41.749573"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.557698" lon="41.751440"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.559179" lon="41.752169"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.559007" lon="41.750946"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.559222" lon="41.750431"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.559930" lon="41.750066"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.560230" lon="41.748908"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.561132" lon="41.748800"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.561260" lon="41.748264"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.563106" lon="41.747449"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.562805" lon="41.747041"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.562934" lon="41.745947"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.562677" lon="41.745131"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.561968" lon="41.744573"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.561174" lon="41.744681"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

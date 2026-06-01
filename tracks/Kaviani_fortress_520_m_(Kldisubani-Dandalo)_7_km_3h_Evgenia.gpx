@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.961Z</time>
+		<link href="https://www.komoot.com/tour/1962228633"/>
+	</metadata>
+	<trk>
+		<name>Kaviani_fortress_520_m_(Kldisubani-Dandalo)_7_km_3h_Evgenia</name>
+		<trkseg>
+			<trkpt lat="41.639924" lon="42.147570"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.638680" lon="42.146883"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.638894" lon="42.147505"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.638250" lon="42.148728"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.638401" lon="42.147763"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.637499" lon="42.146347"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.637414" lon="42.147291"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.636534" lon="42.146561"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.637135" lon="42.146411"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.637328" lon="42.144008"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.637843" lon="42.143536"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.637757" lon="42.141411"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.639109" lon="42.140768"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.640117" lon="42.138579"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.641598" lon="42.137377"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.642091" lon="42.135768"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.640761" lon="42.133665"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.639023" lon="42.133343"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.639195" lon="42.132249"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.639409" lon="42.131498"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.641533" lon="42.129996"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.641126" lon="42.130017"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.640439" lon="42.128279"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.641576" lon="42.128301"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.643465" lon="42.127035"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.644709" lon="42.123537"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.645868" lon="42.121670"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.646018" lon="42.120683"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.645782" lon="42.117272"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.646147" lon="42.116006"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.645932" lon="42.115491"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.646404" lon="42.115147"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.646233" lon="42.113302"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.645696" lon="42.111929"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.645503" lon="42.109439"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.644538" lon="42.107508"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.643958" lon="42.105363"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.644151" lon="42.104590"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.643572" lon="42.102101"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

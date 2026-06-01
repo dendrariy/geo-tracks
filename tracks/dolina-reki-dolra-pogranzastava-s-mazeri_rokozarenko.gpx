@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.953Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/dolina-reki-dolra-pogranzastava-s-mazeri-45801925"/>
+	</metadata>
+	<trk>
+		<name>dolina-reki-dolra-pogranzastava-s-mazeri_rokozarenko</name>
+		<trkseg>
+			<trkpt lat="43.136146" lon="42.533078"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.134837" lon="42.536061"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.134258" lon="42.538464"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.135803" lon="42.544151"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.135996" lon="42.546446"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.137069" lon="42.548936"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.137155" lon="42.551403"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.136232" lon="42.554836"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.133722" lon="42.559557"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.132520" lon="42.562776"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.130417" lon="42.565522"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.129816" lon="42.566896"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.128679" lon="42.572045"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.128250" lon="42.572260"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.126598" lon="42.575693"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.124516" lon="42.578590"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.123915" lon="42.580629"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.123465" lon="42.584727"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.122413" lon="42.588954"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.121727" lon="42.588782"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.120010" lon="42.591572"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.119302" lon="42.593610"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.117264" lon="42.594533"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.116491" lon="42.596336"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.114925" lon="42.597902"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.113766" lon="42.598009"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.108552" lon="42.596142"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.101535" lon="42.594447"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.092437" lon="42.594233"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.090077" lon="42.595005"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.091171" lon="42.598138"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.089884" lon="42.601485"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.086858" lon="42.599361"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.079927" lon="42.599619"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.077674" lon="42.605262"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.074649" lon="42.611678"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.071795" lon="42.611463"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.064006" lon="42.612536"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.059757" lon="42.611270"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.051624" lon="42.611141"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.044737" lon="42.604897"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.023021" lon="42.574449"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

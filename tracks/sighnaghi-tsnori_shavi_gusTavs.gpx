@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.979Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/sighnaghi-tsnori-138841353"/>
+	</metadata>
+	<trk>
+		<name>sighnaghi-tsnori_shavi_gusTavs</name>
+		<trkseg>
+			<trkpt lat="41.622071" lon="45.921760"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.621449" lon="45.923326"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.621986" lon="45.924099"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.624217" lon="45.925579"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.624217" lon="45.925944"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.625590" lon="45.926609"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.625140" lon="45.927253"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.625848" lon="45.928004"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.626985" lon="45.926803"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.626535" lon="45.927682"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.626535" lon="45.929141"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.627457" lon="45.927618"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.628101" lon="45.927210"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.628015" lon="45.926524"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.629303" lon="45.929592"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.629346" lon="45.930922"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.628466" lon="45.930665"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.627286" lon="45.932339"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.626942" lon="45.933540"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.625998" lon="45.933197"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.625590" lon="45.935343"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.624432" lon="45.936802"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.623573" lon="45.938712"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.624947" lon="45.938948"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.624453" lon="45.941050"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.623166" lon="45.942853"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.622050" lon="45.943754"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.621299" lon="45.945557"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.622264" lon="45.950406"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.622264" lon="45.952423"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.620441" lon="45.957959"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

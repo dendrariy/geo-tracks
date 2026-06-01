@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.987Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/walk-in-mulakhi-la-maria-church-13127553"/>
+	</metadata>
+	<trk>
+		<name>walk-in-mulakhi-la-maria-church_GeorgianTour.com</name>
+		<trkseg>
+			<trkpt lat="43.056452" lon="42.882281"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.057311" lon="42.882710"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.057654" lon="42.883504"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.059371" lon="42.885006"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.060465" lon="42.885091"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.060959" lon="42.886079"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.063169" lon="42.888010"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.064799" lon="42.887645"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.065701" lon="42.886636"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.066945" lon="42.886400"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.067095" lon="42.885821"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.065744" lon="42.884662"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.064521" lon="42.884834"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.063297" lon="42.883976"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.063083" lon="42.883246"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.061881" lon="42.882173"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.062160" lon="42.881851"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.061946" lon="42.881379"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.058877" lon="42.876594"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.058083" lon="42.876165"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.056688" lon="42.876272"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.055895" lon="42.875672"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.055101" lon="42.876616"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.055272" lon="42.876079"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.054757" lon="42.876036"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.054543" lon="42.875242"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.054285" lon="42.875607"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.053062" lon="42.875285"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.052290" lon="42.875650"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.051582" lon="42.874878"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.051174" lon="42.875178"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.050058" lon="42.874899"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.049629" lon="42.874320"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.049650" lon="42.873182"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.049200" lon="42.871874"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.047891" lon="42.870200"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.047011" lon="42.867539"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.046346" lon="42.867174"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.974Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/oboli-kva-oboli-kva-110421063"/>
+	</metadata>
+	<trk>
+		<name>oboli-kva-oboli-kva_Grigol_Makharadze</name>
+		<trkseg>
+			<trkpt lat="41.849265" lon="42.323673"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.849587" lon="42.325540"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.849887" lon="42.325905"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.849651" lon="42.326934"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848815" lon="42.328136"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848471" lon="42.329273"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848042" lon="42.329788"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847248" lon="42.329874"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846390" lon="42.326419"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846476" lon="42.324016"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.844437" lon="42.323802"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.843107" lon="42.322772"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.840639" lon="42.322364"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.840360" lon="42.321828"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.839888" lon="42.322128"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.838386" lon="42.322064"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.837893" lon="42.321570"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.837721" lon="42.321849"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.839395" lon="42.324510"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.839695" lon="42.326291"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.840682" lon="42.328801"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.840575" lon="42.329402"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.841948" lon="42.335990"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.842849" lon="42.336033"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.843214" lon="42.335303"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.844416" lon="42.334724"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.846304" lon="42.332471"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847248" lon="42.329939"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848021" lon="42.329681"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.945Z</time>
+		<link href="https://www.relive.com/view/vMq5g4emkQO"/>
+	</metadata>
+	<trk>
+		<name>Armazi_fortress_and_cave-Mtskheta_lavrenti</name>
+		<trkseg>
+			<trkpt lat="41.826348" lon="44.676979"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.826220" lon="44.678073"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.830769" lon="44.677837"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.831091" lon="44.678610"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.833000" lon="44.679296"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.833193" lon="44.680648"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.832807" lon="44.681764"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.834331" lon="44.683094"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.834760" lon="44.685669"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.835103" lon="44.685991"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.834867" lon="44.687600"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.834459" lon="44.688180"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.834760" lon="44.690669"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.833837" lon="44.691098"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.833665" lon="44.691656"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.835361" lon="44.692793"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.836219" lon="44.692428"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.838429" lon="44.692407"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

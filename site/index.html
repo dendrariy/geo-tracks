@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>Тропы Грузии — карта маршрутов</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar">
+      <div class="brand">
+        <h1>Тропы Грузии<span class="dot">.</span></h1>
+        <p>Коллекция пеших маршрутов · поиск и фильтры</p>
+      </div>
+
+      <div class="controls">
+        <div class="search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+          <input id="q" type="search" placeholder="Поиск по названию…" autocomplete="off">
+        </div>
+
+        <div class="field">
+          <label>Длина маршрута, км</label>
+          <div class="len-row">
+            <input id="lmin" type="number" min="0" step="1" value="0">
+            <span>—</span>
+            <input id="lmax" type="number" min="0" step="1" value="100">
+            <span>км</span>
+          </div>
+          <div class="range-wrap">
+            <div class="range-track"></div>
+            <div class="range-fill" id="fill"></div>
+            <input id="rmin" type="range" min="0" max="100" value="0">
+            <input id="rmax" type="range" min="0" max="100" value="100">
+          </div>
+          <div id="lenhint" style="font-size:11px;color:var(--ink-soft);margin-top:6px"></div>
+        </div>
+
+        <label class="toggle">
+          <input id="vp" type="checkbox">
+          <span class="box"></span>
+          <span>Только в видимой области карты</span>
+        </label>
+      </div>
+
+      <div class="count">
+        <span>Маршрутов: <b id="cnt">…</b></span>
+        <span class="reset" id="reset">сбросить</span>
+      </div>
+
+      <div id="list"></div>
+
+      <details class="legend">
+        <summary>Авторы · цвета (клик — скрыть)</summary>
+        <div class="body" id="legbody"></div>
+      </details>
+    </aside>
+
+    <div id="map"></div>
+    <div class="burger" id="burger">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </div>
+  </div>
+
+  <div id="loader"><div class="ring"></div><p>Загрузка маршрутов…</p></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

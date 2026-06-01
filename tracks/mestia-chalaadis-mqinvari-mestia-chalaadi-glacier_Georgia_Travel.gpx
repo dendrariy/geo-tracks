@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.969Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/mestia-chalaadis-mqinvari-mestia-chalaadi-glacier-116645596"/>
+	</metadata>
+	<trk>
+		<name>mestia-chalaadis-mqinvari-mestia-chalaadi-glacier_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="43.056131" lon="42.749801"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.060572" lon="42.751818"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.065658" lon="42.752247"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.067589" lon="42.753019"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.070700" lon="42.751990"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.073425" lon="42.749779"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.075206" lon="42.749565"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.077760" lon="42.750273"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.079798" lon="42.749779"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.082695" lon="42.747247"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.083210" lon="42.746368"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.084519" lon="42.745745"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.085871" lon="42.745788"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.090892" lon="42.742055"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.097158" lon="42.741153"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.099604" lon="42.741561"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.105483" lon="42.744265"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.108037" lon="42.744029"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.109904" lon="42.744651"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.110912" lon="42.744544"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.110933" lon="42.743879"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111513" lon="42.744093"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111813" lon="42.743793"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112736" lon="42.741518"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111384" lon="42.737184"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112242" lon="42.734394"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.113122" lon="42.733600"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.113938" lon="42.731648"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.115461" lon="42.730124"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.116105" lon="42.727978"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.116555" lon="42.727657"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.117800" lon="42.724931"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.119388" lon="42.723429"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.119688" lon="42.722485"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

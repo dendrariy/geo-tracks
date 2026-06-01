@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.965Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/lagodekhi-national-park-trek-black-grouse-waterfall-12593795"/>
+	</metadata>
+	<trk>
+		<name>lagodekhi-national-park-trek-black-grouse-waterfall_GeorgianTour.com</name>
+		<trkseg>
+			<trkpt lat="41.841734" lon="46.283172"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.844201" lon="46.284995"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845017" lon="46.286197"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.845811" lon="46.286540"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.847141" lon="46.285725"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.848858" lon="46.286090"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.849716" lon="46.287098"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.850875" lon="46.287699"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.853428" lon="46.287055"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.855617" lon="46.288278"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.857226" lon="46.288300"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.859179" lon="46.289480"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.864843" lon="46.291604"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.865959" lon="46.293621"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.867912" lon="46.295917"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.868620" lon="46.297505"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.870294" lon="46.299007"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.870787" lon="46.300338"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.873126" lon="46.301411"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.873942" lon="46.302677"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.874735" lon="46.303106"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

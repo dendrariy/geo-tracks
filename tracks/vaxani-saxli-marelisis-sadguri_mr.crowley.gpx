@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.986Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/vaxani-saxli-marelisis-sadguri-143802054"/>
+	</metadata>
+	<trk>
+		<name>vaxani-saxli-marelisis-sadguri_mr.crowley</name>
+		<trkseg>
+			<trkpt lat="41.942585" lon="43.326283"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.943464" lon="43.327055"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.943722" lon="43.325167"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.944237" lon="43.324287"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.944280" lon="43.322656"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.943915" lon="43.320940"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.943486" lon="43.320489"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.943593" lon="43.319953"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.944087" lon="43.319223"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.945975" lon="43.319760"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.948078" lon="43.318687"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.948378" lon="43.317249"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.947863" lon="43.315382"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.949816" lon="43.312314"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.952412" lon="43.311928"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.953807" lon="43.312443"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.954515" lon="43.311670"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.955545" lon="43.311434"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.956446" lon="43.312872"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957648" lon="43.312957"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957905" lon="43.312485"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.958957" lon="43.313344"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.960158" lon="43.312721"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.961274" lon="43.312893"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.961768" lon="43.313923"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.962669" lon="43.314181"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.963763" lon="43.315253"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.966338" lon="43.314996"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.967003" lon="43.315382"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.967905" lon="43.314846"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.968420" lon="43.311970"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.969471" lon="43.311026"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.971316" lon="43.310812"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.972175" lon="43.309567"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.974664" lon="43.299482"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.975587" lon="43.297079"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.975Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/pereval-ordzhonikidze-1b-3490-m-dolina-reki-kvish-45801807"/>
+	</metadata>
+	<trk>
+		<name>pereval-ordzhonikidze-1b-3490-m-dolina-reki-kvish_rokozarenko</name>
+		<trkseg>
+			<trkpt lat="43.156767" lon="42.441540"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.155759" lon="42.445188"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.156145" lon="42.450016"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.155801" lon="42.451968"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.154965" lon="42.452462"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.154772" lon="42.453170"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.154707" lon="42.455208"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.152905" lon="42.463362"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.154879" lon="42.468469"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.155179" lon="42.471666"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.154772" lon="42.472718"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.153463" lon="42.474134"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.152561" lon="42.474799"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.151789" lon="42.474713"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.150287" lon="42.476108"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.147991" lon="42.480335"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.146103" lon="42.485550"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.145416" lon="42.489090"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.144322" lon="42.491536"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.143892" lon="42.494218"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.142712" lon="42.497265"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.140888" lon="42.499604"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.138936" lon="42.503016"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.138292" lon="42.505977"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.138442" lon="42.506921"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.138914" lon="42.507222"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.138721" lon="42.510870"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.139022" lon="42.515912"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.138271" lon="42.521920"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.137477" lon="42.524474"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.135889" lon="42.527800"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.135846" lon="42.529667"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.136275" lon="42.531276"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.136125" lon="42.532714"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

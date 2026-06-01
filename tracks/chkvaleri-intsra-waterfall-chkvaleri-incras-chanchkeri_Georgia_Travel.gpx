@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.951Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/chkvaleri-intsra-waterfall-chkvaleri-incras-chanchkeri-187769278"/>
+	</metadata>
+	<trk>
+		<name>chkvaleri-intsra-waterfall-chkvaleri-incras-chanchkeri_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.720425" lon="42.093175"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.720876" lon="42.093840"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.722743" lon="42.093926"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.724459" lon="42.095792"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.725489" lon="42.095342"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.727163" lon="42.095685"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.727978" lon="42.096307"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.728751" lon="42.097530"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.729824" lon="42.100771"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730897" lon="42.101500"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730768" lon="42.101972"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730038" lon="42.102401"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730189" lon="42.102788"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.729759" lon="42.103968"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730317" lon="42.105534"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.731068" lon="42.105963"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730811" lon="42.106135"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.730789" lon="42.107122"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

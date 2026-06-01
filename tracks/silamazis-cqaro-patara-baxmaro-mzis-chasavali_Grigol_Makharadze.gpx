@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.979Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/silamazis-cqaro-patara-baxmaro-mzis-chasavali-181841427"/>
+	</metadata>
+	<trk>
+		<name>silamazis-cqaro-patara-baxmaro-mzis-chasavali_Grigol_Makharadze</name>
+		<trkseg>
+			<trkpt lat="41.849780" lon="42.321785"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.852291" lon="42.319532"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.852312" lon="42.318823"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.852720" lon="42.318866"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.853321" lon="42.317729"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.853578" lon="42.317794"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.853449" lon="42.316077"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.854050" lon="42.315025"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.855273" lon="42.313609"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.856046" lon="42.313481"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.856732" lon="42.312772"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.856582" lon="42.312515"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.857333" lon="42.312150"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.858235" lon="42.309833"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.859071" lon="42.309425"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.858900" lon="42.308803"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.860359" lon="42.308138"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.860359" lon="42.307558"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.860831" lon="42.307151"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.861024" lon="42.306121"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.861475" lon="42.305477"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.862912" lon="42.304554"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.864178" lon="42.304790"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.865401" lon="42.306357"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.865916" lon="42.306593"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.867161" lon="42.306271"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.869307" lon="42.307580"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.869478" lon="42.309060"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.869049" lon="42.310069"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.869242" lon="42.310777"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.871517" lon="42.311742"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.871195" lon="42.312837"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.870251" lon="42.313330"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.868513" lon="42.316764"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.867612" lon="42.316635"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.866388" lon="42.319167"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.862977" lon="42.320004"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.862097" lon="42.319360"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.861560" lon="42.318137"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

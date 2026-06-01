@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.960Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/jokolo-duisi-joqolo-duisi-40358992"/>
+	</metadata>
+	<trk>
+		<name>jokolo-duisi-joqolo-duisi_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="42.163749" lon="45.302427"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.164242" lon="45.300775"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.165165" lon="45.299445"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.165916" lon="45.299659"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.165251" lon="45.297299"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.163770" lon="45.295475"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.164457" lon="45.294102"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.164736" lon="45.294853"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.166002" lon="45.294316"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.166217" lon="45.294659"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.165487" lon="45.293522"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.166538" lon="45.292363"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.164500" lon="45.290454"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.163234" lon="45.290132"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.161517" lon="45.288158"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.159414" lon="45.291334"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.157633" lon="45.291484"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.154114" lon="45.295282"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

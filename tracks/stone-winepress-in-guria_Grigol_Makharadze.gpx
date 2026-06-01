@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.980Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/stone-winepress-in-guria-10315584"/>
+	</metadata>
+	<trk>
+		<name>stone-winepress-in-guria_Grigol_Makharadze</name>
+		<trkseg>
+			<trkpt lat="41.906686" lon="42.082553"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.907866" lon="42.084205"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.908424" lon="42.085643"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.908274" lon="42.086201"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.909905" lon="42.088325"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.910956" lon="42.088561"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.910999" lon="42.089462"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.911922" lon="42.090857"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.911707" lon="42.091651"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.912265" lon="42.092445"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.912394" lon="42.093368"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.911836" lon="42.094784"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.911535" lon="42.093990"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.911106" lon="42.094076"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.911128" lon="42.094569"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

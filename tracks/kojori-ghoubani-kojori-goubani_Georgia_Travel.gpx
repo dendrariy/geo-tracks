@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.963Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/kojori-ghoubani-kojori-goubani-40832313"/>
+	</metadata>
+	<trk>
+		<name>kojori-ghoubani-kojori-goubani_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.652262" lon="44.701205"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.648979" lon="44.700947"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.646683" lon="44.702170"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.645439" lon="44.703415"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.644237" lon="44.700840"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.643765" lon="44.697128"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.643293" lon="44.695754"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.640890" lon="44.696141"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.639924" lon="44.696956"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.640353" lon="44.695819"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.639452" lon="44.695454"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.637006" lon="44.697943"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.636126" lon="44.698179"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.634925" lon="44.697171"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.633573" lon="44.698844"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.631899" lon="44.700196"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.630633" lon="44.700604"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.628873" lon="44.700561"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.626985" lon="44.702900"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.624196" lon="44.703436"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.623509" lon="44.702170"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.622822" lon="44.701848"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.622286" lon="44.703801"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.621020" lon="44.705303"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.619690" lon="44.706269"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.618745" lon="44.705367"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

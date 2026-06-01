@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.953Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/dzhuta-chaukhi-218913540"/>
+	</metadata>
+	<trk>
+		<name>dzhuta-chaukhi_olfedos</name>
+		<trkseg>
+			<trkpt lat="42.583268" lon="44.748433"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.580328" lon="44.746630"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.577238" lon="44.748090"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.576509" lon="44.748948"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.575607" lon="44.753325"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.574535" lon="44.755042"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.572110" lon="44.756973"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.564449" lon="44.761179"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.563012" lon="44.762810"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.555609" lon="44.767916"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.555266" lon="44.767616"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.555630" lon="44.766500"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.555351" lon="44.765985"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.554879" lon="44.768818"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.555545" lon="44.768517"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.556274" lon="44.771006"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.555072" lon="44.775427"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.555673" lon="44.778002"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.556660" lon="44.779332"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.557390" lon="44.783881"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.558227" lon="44.785426"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.558806" lon="44.788258"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.557433" lon="44.791735"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.558227" lon="44.797013"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.556660" lon="44.803579"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.557562" lon="44.807055"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.556489" lon="44.811390"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

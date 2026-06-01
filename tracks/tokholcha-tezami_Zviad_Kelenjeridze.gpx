@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.983Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/tokholcha-tezami-74140522"/>
+	</metadata>
+	<trk>
+		<name>tokholcha-tezami_Zviad_Kelenjeridze</name>
+		<trkseg>
+			<trkpt lat="41.918059" lon="44.974425"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.917136" lon="44.974768"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.916771" lon="44.974425"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.916149" lon="44.974575"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.914261" lon="44.973567"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.913939" lon="44.973138"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.913381" lon="44.970348"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.912329" lon="44.970391"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.911171" lon="44.969812"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.907823" lon="44.966336"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.907072" lon="44.966078"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.906064" lon="44.964619"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.904733" lon="44.964512"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.904476" lon="44.965070"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.903038" lon="44.965585"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.902588" lon="44.965284"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.902545" lon="44.964361"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.902094" lon="44.963804"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.898468" lon="44.963696"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.897781" lon="44.963246"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.897717" lon="44.962194"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.897309" lon="44.961314"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.897867" lon="44.963289"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

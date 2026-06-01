@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.988Z</time>
+		<link href="https://www.komoot.com/tour/1890472714"/>
+	</metadata>
+	<trk>
+		<name>Zekari_pass_Ratmir_Novikov</name>
+		<trkseg>
+			<trkpt lat="42.916677" lon="43.106277"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.917900" lon="43.105741"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.918952" lon="43.106899"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.919896" lon="43.106685"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.919896" lon="43.105848"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.920754" lon="43.104646"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.921226" lon="43.102436"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.922020" lon="43.101256"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.921806" lon="43.099282"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.922449" lon="43.097995"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.922707" lon="43.096235"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.923608" lon="43.094948"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.925990" lon="43.093574"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.926483" lon="43.091107"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.926848" lon="43.090849"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.927213" lon="43.090999"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.926612" lon="43.091278"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.926076" lon="43.092158"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.925968" lon="43.093596"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.924359" lon="43.094411"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.922814" lon="43.095999"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.922449" lon="43.097973"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.921462" lon="43.100462"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.921441" lon="43.102114"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.920733" lon="43.105140"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.919059" lon="43.105805"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.918158" lon="43.105462"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.916999" lon="43.106535"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.916420" lon="43.106277"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

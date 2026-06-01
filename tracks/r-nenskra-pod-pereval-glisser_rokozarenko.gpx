@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.976Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/r-nenskra-pod-pereval-glisser-45801772"/>
+	</metadata>
+	<trk>
+		<name>r-nenskra-pod-pereval-glisser_rokozarenko</name>
+		<trkseg>
+			<trkpt lat="43.201378" lon="42.341740"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.202043" lon="42.343757"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.202987" lon="42.344787"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.202944" lon="42.346440"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.203716" lon="42.349723"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.204725" lon="42.357683"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.206420" lon="42.366009"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.207643" lon="42.365408"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.208673" lon="42.370021"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.211098" lon="42.374592"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.213802" lon="42.378540"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.215261" lon="42.382767"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.216763" lon="42.389033"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.215733" lon="42.389248"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.218630" lon="42.395578"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.219445" lon="42.399826"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.221076" lon="42.401886"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.221913" lon="42.406070"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.220046" lon="42.412100"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

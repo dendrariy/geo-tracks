@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.948Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/bochormis-cixe-bochorma-fortress-178221464"/>
+	</metadata>
+	<trk>
+		<name>bochormis-cixe-bochorma-fortress_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.909154" lon="45.148597"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.908703" lon="45.148619"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.908574" lon="45.149026"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.909626" lon="45.149627"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.909647" lon="45.150571"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.908939" lon="45.151322"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.909175" lon="45.151623"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.908660" lon="45.152073"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.907523" lon="45.154519"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.906815" lon="45.154541"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.907008" lon="45.155185"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.906750" lon="45.155807"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.904862" lon="45.155742"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.904197" lon="45.155163"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.903339" lon="45.154026"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.902545" lon="45.151365"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.901879" lon="45.150700"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.901150" lon="45.146280"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.901364" lon="45.142138"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.900978" lon="45.140937"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.900549" lon="45.140593"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.900699" lon="45.140207"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.901128" lon="45.140186"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

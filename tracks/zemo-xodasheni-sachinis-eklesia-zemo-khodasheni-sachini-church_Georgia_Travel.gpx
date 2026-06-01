@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.988Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/zemo-xodasheni-sachinis-eklesia-zemo-khodasheni-sachini-church-118817044"/>
+	</metadata>
+	<trk>
+		<name>zemo-xodasheni-sachinis-eklesia-zemo-khodasheni-sachini-church_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.970952" lon="45.344935"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.956682" lon="45.332489"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.955309" lon="45.329485"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.954687" lon="45.326782"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.954923" lon="45.326095"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.954665" lon="45.323584"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.954258" lon="45.322898"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.954966" lon="45.317769"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.956146" lon="45.313950"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957584" lon="45.312877"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957648" lon="45.312426"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957090" lon="45.309229"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957433" lon="45.306955"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.956725" lon="45.298286"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.958249" lon="45.295174"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957841" lon="45.293780"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.958034" lon="45.292642"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957476" lon="45.290346"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957455" lon="45.289896"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957991" lon="45.289188"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957862" lon="45.283652"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.957433" lon="45.283115"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.956296" lon="45.282836"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.956275" lon="45.284317"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.955674" lon="45.285647"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.955116" lon="45.285755"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.955052" lon="45.286720"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

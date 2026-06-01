@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.945Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/ateni-sioni-damchkeri-waterfal-atenis-sioni-damchkeris-chanchkeri-40866930"/>
+	</metadata>
+	<trk>
+		<name>ateni-sioni-damchkeri-waterfal-atenis-sioni-damchkeris-chanchkeri_Georgia_Travel</name>
+		<trkseg>
+			<trkpt lat="41.904132" lon="44.094146"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.901257" lon="44.092965"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.901064" lon="44.092579"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.900356" lon="44.092987"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.898360" lon="44.091335"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.895871" lon="44.092365"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.895335" lon="44.091678"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.894927" lon="44.090348"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.894283" lon="44.090069"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.894004" lon="44.090390"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.894219" lon="44.090970"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.893382" lon="44.093352"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.892996" lon="44.093695"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.892803" lon="44.093480"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.893039" lon="44.092515"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.892910" lon="44.091914"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.892460" lon="44.092515"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.891751" lon="44.092515"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

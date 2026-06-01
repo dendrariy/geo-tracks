@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.969Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/mestiachala-bridge-chalaadi-glacier-and-back-83445319"/>
+	</metadata>
+	<trk>
+		<name>mestiachala-bridge-chalaadi-glacier-and-back_DVALITY</name>
+		<trkseg>
+			<trkpt lat="43.110182" lon="42.744565"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.110869" lon="42.744587"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111019" lon="42.743857"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111427" lon="42.744157"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112629" lon="42.741389"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111341" lon="42.737162"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112092" lon="42.734373"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.113101" lon="42.733579"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.113809" lon="42.731540"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.114581" lon="42.731304"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.115268" lon="42.730296"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.115912" lon="42.727292"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.116770" lon="42.726884"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.117778" lon="42.724888"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.118658" lon="42.724116"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.119152" lon="42.723086"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.119688" lon="42.722871"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.119688" lon="42.722292"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.119409" lon="42.722893"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.119967" lon="42.723215"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.120911" lon="42.722507"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.120997" lon="42.721949"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.120461" lon="42.722786"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.118787" lon="42.723708"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.117371" lon="42.725468"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.115483" lon="42.729051"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.115139" lon="42.730425"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.113787" lon="42.731819"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112843" lon="42.733922"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112157" lon="42.734394"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111363" lon="42.737205"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112672" lon="42.741497"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111749" lon="42.743857"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111448" lon="42.744157"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111019" lon="42.743836"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.110848" lon="42.744544"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.110590" lon="42.744565"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

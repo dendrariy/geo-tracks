@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.945Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/around-david-gareja-monastery-24033771"/>
+	</metadata>
+	<trk>
+		<name>around-david-gareja-monastery_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="41.437728" lon="45.386370"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.439059" lon="45.383344"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.439338" lon="45.382507"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.439145" lon="45.382207"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.440389" lon="45.380683"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.439939" lon="45.379932"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.438887" lon="45.379932"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.439402" lon="45.379460"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.439638" lon="45.378774"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.439402" lon="45.378838"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.440539" lon="45.378044"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.441355" lon="45.376842"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.442342" lon="45.376392"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.444531" lon="45.373388"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.444938" lon="45.373581"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.444917" lon="45.374332"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.446912" lon="45.373967"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.447406" lon="45.375855"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.447814" lon="45.375555"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.448114" lon="45.376156"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.449487" lon="45.375469"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

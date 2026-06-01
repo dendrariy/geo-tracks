@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.945Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/askana-fortress-1970428"/>
+	</metadata>
+	<trk>
+		<name>askana-fortress_Grigol_Makharadze</name>
+		<trkseg>
+			<trkpt lat="41.939001" lon="42.157848"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.938336" lon="42.157891"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.937778" lon="42.159007"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.934989" lon="42.156646"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.934388" lon="42.158363"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.934345" lon="42.160316"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.933336" lon="42.158792"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.933229" lon="42.157805"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.932929" lon="42.158599"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.932585" lon="42.157397"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.932113" lon="42.156990"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.930847" lon="42.157290"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.929753" lon="42.158728"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.929453" lon="42.161410"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.930032" lon="42.162268"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.929216" lon="42.163813"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.929238" lon="42.164950"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.928315" lon="42.165723"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.929174" lon="42.165208"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.929410" lon="42.166453"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.930204" lon="42.167568"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.930053" lon="42.168684"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.930332" lon="42.169049"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.930118" lon="42.169178"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.930761" lon="42.169993"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.931298" lon="42.170015"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.931534" lon="42.170680"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.931942" lon="42.173276"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

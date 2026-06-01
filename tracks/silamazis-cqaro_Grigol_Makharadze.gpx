@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.979Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/silamazis-cqaro-1979223"/>
+	</metadata>
+	<trk>
+		<name>silamazis-cqaro_Grigol_Makharadze</name>
+		<trkseg>
+			<trkpt lat="41.851432" lon="42.323995"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.852698" lon="42.320755"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.852441" lon="42.319725"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.852656" lon="42.318738"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.853256" lon="42.317836"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.853728" lon="42.317858"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

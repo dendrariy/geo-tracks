@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.980Z</time>
+		<link href="https://www.relive.com/view/vMv8GE1yYPq"/>
+	</metadata>
+	<trk>
+		<name>Stepantsminda-around_Gergeti_trinity_church_lavrenti</name>
+		<trkseg>
+			<trkpt lat="42.660580" lon="44.632712"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.662339" lon="44.631017"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.662575" lon="44.629236"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.661245" lon="44.627970"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.660923" lon="44.627240"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.661138" lon="44.626553"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.659679" lon="44.623614"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.659357" lon="44.621597"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.660365" lon="44.619859"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.663112" lon="44.617048"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.664013" lon="44.614280"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.664828" lon="44.613743"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.665000" lon="44.610095"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.666824" lon="44.606190"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.666781" lon="44.604924"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.666395" lon="44.603915"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.666609" lon="44.597543"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.665386" lon="44.591449"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.664485" lon="44.589174"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.663949" lon="44.586320"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.663155" lon="44.585462"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.665537" lon="44.591985"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.666695" lon="44.598122"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.666524" lon="44.602735"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.666223" lon="44.604173"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.666760" lon="44.606340"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.664914" lon="44.610031"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.664721" lon="44.613271"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.664485" lon="44.613700"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.664721" lon="44.614408"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="42.664356" lon="44.614988"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.945Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/armazi-citadel-23965153"/>
+	</metadata>
+	<trk>
+		<name>armazi-citadel_Brandy_the_Tramp</name>
+		<trkseg>
+			<trkpt lat="41.828258" lon="44.678095"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.829503" lon="44.677601"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.830640" lon="44.677751"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.830962" lon="44.677923"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.830983" lon="44.678417"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.832485" lon="44.679253"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.834223" lon="44.679532"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.834760" lon="44.680519"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.835876" lon="44.679232"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.836004" lon="44.676378"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.838215" lon="44.674061"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.838386" lon="44.674490"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.838966" lon="44.673631"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.838558" lon="44.674275"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

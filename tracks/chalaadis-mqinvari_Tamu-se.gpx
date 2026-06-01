@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.950Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/chalaadis-mqinvari-154649201"/>
+	</metadata>
+	<trk>
+		<name>chalaadis-mqinvari_Tamu-se</name>
+		<trkseg>
+			<trkpt lat="43.111298" lon="42.743793"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111406" lon="42.744157"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111963" lon="42.743664"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112736" lon="42.741175"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111792" lon="42.739093"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111706" lon="42.737849"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111341" lon="42.737098"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111620" lon="42.736411"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111363" lon="42.736583"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111384" lon="42.736347"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112071" lon="42.735489"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112071" lon="42.734480"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.113058" lon="42.733708"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112886" lon="42.733622"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.113787" lon="42.732163"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.113680" lon="42.731755"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.114495" lon="42.731304"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.114646" lon="42.730746"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.115547" lon="42.729867"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.115847" lon="42.728815"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.116706" lon="42.728086"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.116856" lon="42.727442"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.116641" lon="42.727184"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.117950" lon="42.724888"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.119216" lon="42.723773"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.119838" lon="42.722356"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.120332" lon="42.722442"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.119838" lon="42.722593"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.119538" lon="42.723301"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.117349" lon="42.725403"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.115354" lon="42.730253"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.114689" lon="42.730746"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.114410" lon="42.731433"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.113895" lon="42.731605"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.113122" lon="42.733557"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112114" lon="42.734373"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111298" lon="42.737270"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112693" lon="42.741261"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.112436" lon="42.742505"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="43.111513" lon="42.744265"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

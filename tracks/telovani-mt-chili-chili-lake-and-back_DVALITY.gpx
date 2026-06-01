@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.981Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/telovani-mt-chili-chili-lake-and-back-125639866"/>
+	</metadata>
+	<trk>
+		<name>telovani-mt-chili-chili-lake-and-back_DVALITY</name>
+		<trkseg>
+			<trkpt lat="41.807337" lon="44.688223"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.808796" lon="44.689982"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.809762" lon="44.690304"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811307" lon="44.692064"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.810298" lon="44.688201"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811500" lon="44.686420"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811886" lon="44.683481"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811714" lon="44.682622"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811950" lon="44.679361"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811178" lon="44.677730"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811950" lon="44.679382"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.812251" lon="44.679425"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.812401" lon="44.678996"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811907" lon="44.679489"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811800" lon="44.680090"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811907" lon="44.683438"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811564" lon="44.686249"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.810298" lon="44.688266"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.811307" lon="44.692085"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.807337" lon="44.688244"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

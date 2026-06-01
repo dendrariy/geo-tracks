@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2026-04-16T14:06:09.981Z</time>
+		<link href="https://www.wikiloc.com/hiking-trails/tbilisi-182622761"/>
+	</metadata>
+	<trk>
+		<name>tbilisi_Tamu-se</name>
+		<trkseg>
+			<trkpt lat="41.690328" lon="44.812162"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690092" lon="44.812269"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690564" lon="44.812119"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690242" lon="44.810853"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690114" lon="44.811433"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690457" lon="44.811411"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690607" lon="44.812098"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.690993" lon="44.811604"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.691337" lon="44.811733"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+			<trkpt lat="41.692238" lon="44.810510"><time>1970-01-01T00:00:01.000Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
