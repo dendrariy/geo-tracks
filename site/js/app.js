@@ -22,6 +22,20 @@
   const colorForLength = (km) =>
     (LENGTH_BANDS.find(b => km < b.max) || LENGTH_BANDS[LENGTH_BANDS.length - 1]).color;
 
+  // ---------- стили треков (фокус-режим при выборе) ----------
+  const DIM_STYLE = { color: "#9ca3af", weight: 1.5, opacity: 0.22 }; // прочие при активном выборе
+  const baseStyle = (t) => ({ color: colorForLength(t.lengthKm), weight: 2.5, opacity: 0.82 });
+  const activeStyle = (t) => ({ color: colorForLength(t.lengthKm), weight: 5, opacity: 1 });
+  // стиль покоя трека с учётом текущего выбора
+  const restingStyle = (id) =>
+    activeId == null ? baseStyle(byId[id])
+    : id === activeId ? activeStyle(byId[id])
+    : DIM_STYLE;
+  function restyleAll() {
+    for (const id in layers) layers[id].setStyle(restingStyle(id));
+    if (activeId && layers[activeId]) layers[activeId].bringToFront();
+  }
+
   // ---------- карта и слои ----------
   const map = L.map("map", { zoomControl: true, preferCanvas: true });
   const renderer = L.canvas({ padding: 0.5 });
@@ -67,6 +81,7 @@
     buildLengthControl();
     buildLegend();
     map.on("moveend", () => { if ($("#vp").checked) applyFilters(); });
+    map.on("click", () => { if (activeId) deselect(); });   // клик по карте вне трека — снять выбор
     applyFilters();
     $("#loader").style.display = "none";
   }
@@ -80,8 +95,8 @@
         renderer, color: colorForLength(t.lengthKm), weight: 2.5, opacity: 0.82, smoothFactor: 1.2,
       });
       pl.bindTooltip(t.name, { className: "track-tip", sticky: true });
-      pl.on("mouseover", () => pl.setStyle({ weight: 5, opacity: 1 }).bringToFront());
-      pl.on("mouseout", () => { if (t.id !== activeId) pl.setStyle({ weight: 2.5, opacity: 0.82 }); });
+      pl.on("mouseover", () => pl.setStyle({ weight: 5, opacity: 1, color: colorForLength(t.lengthKm) }).bringToFront());
+      pl.on("mouseout", () => { pl.setStyle(restingStyle(t.id)); if (t.id === activeId) pl.bringToFront(); });
       pl.on("click", () => selectTrack(t.id, false));
       layers[t.id] = pl;
     });
@@ -96,15 +111,22 @@
   }
 
   function selectTrack(id, fly) {
-    if (activeId && layers[activeId]) layers[activeId].setStyle({ weight: 2.5, opacity: 0.82 });
-    activeId = id;
+    if (id === activeId) { deselect(); return; }   // повторный клик — снять выбор
     const t = byId[id], pl = layers[id];
     if (!pl) return;
-    pl.setStyle({ weight: 5, opacity: 1 }).bringToFront();
+    activeId = id;
+    restyleAll();                                   // выбранный — ярче/жирнее, остальные приглушены
     pl.bindPopup(popupHtml(t), { maxWidth: 280 });
     if (fly) map.fitBounds([[t.bbox[0], t.bbox[1]], [t.bbox[2], t.bbox[3]]], { padding: [40, 40], maxZoom: 15 });
     pl.openPopup();
     document.querySelectorAll(".item").forEach(el => el.classList.toggle("active", el.dataset.id === id));
+  }
+
+  function deselect() {
+    if (activeId && layers[activeId]) layers[activeId].closePopup();
+    activeId = null;
+    restyleAll();                                   // вернуть всем обычный вид
+    document.querySelectorAll(".item.active").forEach(el => el.classList.remove("active"));
   }
 
   // ---------- фильтры ----------
@@ -172,8 +194,8 @@
 
     list.querySelectorAll(".item").forEach(el => {
       el.addEventListener("click", () => selectTrack(el.dataset.id, true));
-      el.addEventListener("mouseenter", () => { const pl = layers[el.dataset.id]; if (pl && map.hasLayer(pl)) pl.setStyle({ weight: 4.5, opacity: 1 }).bringToFront(); });
-      el.addEventListener("mouseleave", () => { const pl = layers[el.dataset.id]; if (pl && el.dataset.id !== activeId) pl.setStyle({ weight: 2.5, opacity: 0.82 }); });
+      el.addEventListener("mouseenter", () => { const id = el.dataset.id, pl = layers[id]; if (pl && map.hasLayer(pl)) pl.setStyle({ weight: 4.5, opacity: 1, color: colorForLength(byId[id].lengthKm) }).bringToFront(); });
+      el.addEventListener("mouseleave", () => { const id = el.dataset.id, pl = layers[id]; if (pl) { pl.setStyle(restingStyle(id)); if (id === activeId) pl.bringToFront(); } });
     });
     const m = $("#more");
     if (m) m.addEventListener("click", () => { shown += PAGE; renderList(visible); });
@@ -228,6 +250,7 @@
   $("#vp").addEventListener("change", () => { shown = PAGE; applyFilters(); });
   $("#reset").addEventListener("click", () => {
     $("#q").value = ""; $("#vp").checked = false;
+    deselect();
     const maxL = META.sliderMax;
     $("#lmin").value = 0; $("#lmax").value = maxL; $("#rmin").value = 0; $("#rmax").value = maxL;
     $("#fill").style.left = "0%"; $("#fill").style.width = "100%";
