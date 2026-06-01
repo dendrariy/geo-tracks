@@ -14,7 +14,7 @@
   // Градация: <5 зелёный, 5–10 жёлтый, 10–20 оранжевый, 20–30 красный, 30+ фиолетовый
   const LENGTH_BANDS = [
     { max: 5,        color: "#16a34a", label: "до 5 км" },
-    { max: 10,       color: "#eab308", label: "5–10 км" },
+    { max: 10,       color: "#d4d400", label: "5–10 км" },
     { max: 20,       color: "#f97316", label: "10–20 км" },
     { max: 30,       color: "#dc2626", label: "20–30 км" },
     { max: Infinity, color: "#9333ea", label: "30 км и больше" },
@@ -46,7 +46,7 @@
     "Тропы (Waymarked)": L.tileLayer("https://tile.waymarkedtrails.org/hiking/{z}/{x}/{y}.png", {
       maxZoom: 18, attribution: "© waymarkedtrails.org" }),
   };
-  base["Esri — улицы (англ.)"].addTo(map);
+  base["OpenStreetMap"].addTo(map);
   L.control.layers(base, overlays, { position: "topright", collapsed: false }).addTo(map);
   L.control.scale({ imperial: false }).addTo(map);
 
