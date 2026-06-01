@@ -6,16 +6,29 @@
   let byId = {};
   const layers = {};               // id -> L.Polyline
   let activeId = null;
-  const hiddenAuthors = new Set();
   let shown = PAGE;
 
   const $ = (s) => document.querySelector(s);
+
+  // ---------- цвет по длине маршрута ----------
+  // Градация: <5 зелёный, 5–10 жёлтый, 10–20 оранжевый, 20–30 красный, 30+ фиолетовый
+  const LENGTH_BANDS = [
+    { max: 5,        color: "#16a34a", label: "до 5 км" },
+    { max: 10,       color: "#eab308", label: "5–10 км" },
+    { max: 20,       color: "#f97316", label: "10–20 км" },
+    { max: 30,       color: "#dc2626", label: "20–30 км" },
+    { max: Infinity, color: "#9333ea", label: "30 км и больше" },
+  ];
+  const colorForLength = (km) =>
+    (LENGTH_BANDS.find(b => km < b.max) || LENGTH_BANDS[LENGTH_BANDS.length - 1]).color;
 
   // ---------- карта и слои ----------
   const map = L.map("map", { zoomControl: true, preferCanvas: true });
   const renderer = L.canvas({ padding: 0.5 });
 
   const base = {
+    "Esri — улицы (англ.)": L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}", {
+      maxZoom: 19, attribution: "© Esri, HERE, Garmin, © OpenStreetMap contributors" }),
     "OpenTopoMap": L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", {
       maxZoom: 17, attribution: "© OpenTopoMap, © OpenStreetMap" }),
     "OpenStreetMap": L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -33,7 +46,7 @@
     "Тропы (Waymarked)": L.tileLayer("https://tile.waymarkedtrails.org/hiking/{z}/{x}/{y}.png", {
       maxZoom: 18, attribution: "© waymarkedtrails.org" }),
   };
-  base["OpenTopoMap"].addTo(map);
+  base["Esri — улицы (англ.)"].addTo(map);
   L.control.layers(base, overlays, { position: "topright", collapsed: false }).addTo(map);
   L.control.scale({ imperial: false }).addTo(map);
 
@@ -64,7 +77,7 @@
       const pts = GEOM[t.id];
       if (!pts) return;
       const pl = L.polyline(pts, {
-        renderer, color: t.color, weight: 2.5, opacity: 0.82, smoothFactor: 1.2,
+        renderer, color: colorForLength(t.lengthKm), weight: 2.5, opacity: 0.82, smoothFactor: 1.2,
       });
       pl.bindTooltip(t.name, { className: "track-tip", sticky: true });
       pl.on("mouseover", () => pl.setStyle({ weight: 5, opacity: 1 }).bringToFront());
@@ -78,8 +91,7 @@
     const gain = t.gainM != null ? `<div class="popup-row"><b>Набор высоты:</b> ${t.gainM} м</div>` : "";
     const src = t.url ? `<div class="popup-row"><b>Источник:</b> <a href="${t.url}" target="_blank" rel="noopener">${t.source}</a></div>` : "";
     return `<span class="popup-title">${t.location}</span>
-      <div class="popup-row"><b>Длина:</b> ${t.lengthKm} км</div>${gain}
-      <div class="popup-row"><b>Автор:</b> ${t.author}</div>${src}
+      <div class="popup-row"><b>Длина:</b> ${t.lengthKm} км</div>${gain}${src}
       <div class="popup-row" style="margin-top:5px;opacity:.7">${t.name}</div>`;
   }
 
@@ -110,7 +122,6 @@
   }
 
   function matches(t, f) {
-    if (hiddenAuthors.has(t.author)) return false;
     if (t.lengthKm < f.min || t.lengthKm > f.max) return false;
     if (f.q && !t.name.toLowerCase().includes(f.q) && !t.location.toLowerCase().includes(f.q)) return false;
     if (f.vp && f.bounds) {
@@ -148,11 +159,10 @@
     const slice = visible.slice(0, shown);
     list.innerHTML = slice.map(t => `
       <div class="item${t.id === activeId ? " active" : ""}" data-id="${t.id}">
-        <span class="swatch" style="background:${t.color}"></span>
+        <span class="swatch" style="background:${colorForLength(t.lengthKm)}"></span>
         <div>
           <div class="nm">${t.location} <span style="color:var(--ink-soft);font-weight:400">· ${(+t.lengthKm).toFixed(1)} км</span></div>
           <div class="sub">
-            <span>${t.author}</span>
             ${t.url ? `<a class="src" href="${t.url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${t.source} ↗</a>` : ""}
           </div>
         </div>
@@ -201,22 +211,15 @@
     paintFill();
   }
 
-  // ---------- легенда (по авторам) ----------
+  // ---------- легенда (по длине маршрута) ----------
   function buildLegend() {
     const body = $("#legbody");
-    body.innerHTML = META.authors
-      .sort((a, b) => b.count - a.count)
-      .map(a => `<div class="leg-item" data-a="${a.name.replace(/"/g, "&quot;")}">
-        <span class="swatch" style="background:${a.color}"></span>
-        <span>${a.name}</span><span class="c">${a.count}</span></div>`).join("");
-    body.querySelectorAll(".leg-item").forEach(el => {
-      el.addEventListener("click", () => {
-        const a = el.dataset.a;
-        if (hiddenAuthors.has(a)) hiddenAuthors.delete(a); else hiddenAuthors.add(a);
-        el.classList.toggle("off");
-        shown = PAGE; applyFilters();
-      });
-    });
+    body.innerHTML = LENGTH_BANDS.map(b =>
+      `<div class="leg-item">
+        <span class="swatch" style="background:${b.color}"></span>
+        <span>${b.label}</span>
+        <span class="c">${INDEX.filter(t => colorForLength(t.lengthKm) === b.color).length}</span>
+      </div>`).join("");
   }
 
   // ---------- поиск + reset + бургер ----------
@@ -225,8 +228,6 @@
   $("#vp").addEventListener("change", () => { shown = PAGE; applyFilters(); });
   $("#reset").addEventListener("click", () => {
     $("#q").value = ""; $("#vp").checked = false;
-    hiddenAuthors.clear();
-    document.querySelectorAll(".leg-item.off").forEach(e => e.classList.remove("off"));
     const maxL = META.sliderMax;
     $("#lmin").value = 0; $("#lmax").value = maxL; $("#rmin").value = 0; $("#rmax").value = maxL;
     $("#fill").style.left = "0%"; $("#fill").style.width = "100%";
